@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<harmotab file-format-version="3.0" file-type="harmonica-model" harmotab-version="3.0">
+<harmonica holes="4" name="Mini diatonique - Little Lady">
+<hole number="1">
+<alt type="full overblow">Bb3</alt>
+<alt type="half overblow">B3</alt>
+<alt type="blow">C3</alt>
+<alt type="draw">D3</alt>
+<alt type="half bend">C#3</alt>
+</hole>
+<hole number="2">
+<alt type="half overblow">Eb3</alt>
+<alt type="blow">E3</alt>
+<alt type="draw">F3</alt>
+<alt type="half bend">E3</alt>
+<alt type="full bend">F3</alt>
+</hole>
+<hole number="3">
+<alt type="half overblow">F#3</alt>
+<alt type="blow">G3</alt>
+<alt type="draw">A3</alt>
+<alt type="half bend">G#3</alt>
+<alt type="full bend">A3</alt>
+</hole>
+<hole number="4">
+<alt type="half overblow">B3</alt>
+<alt type="blow">C3</alt>
+<alt type="draw">B3</alt>
+<alt type="half bend">Bb3</alt>
+</hole>
+</harmonica>
+</harmotab>

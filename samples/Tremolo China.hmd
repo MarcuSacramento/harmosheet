@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<harmotab file-format-version="3.0" file-type="harmonica-model" harmotab-version="3.0">
+<harmonica holes="12" name="Tremolo" type="other">
+<hole number="1">
+<alt type="blow">G3</alt>
+<alt type="draw">D4</alt>
+</hole>
+<hole number="2">
+<alt type="blow">C4</alt>
+<alt type="draw">F4</alt>
+</hole>
+<hole number="3">
+<alt type="blow">E4</alt>
+<alt type="draw">A4</alt>
+</hole>
+<hole number="4">
+<alt type="blow">G4</alt>
+<alt type="draw">B4</alt>
+</hole>
+<hole number="5">
+<alt type="blow">C5</alt>
+<alt type="draw">D5</alt>
+</hole>
+<hole number="6">
+<alt type="blow">E5</alt>
+<alt type="draw">F5</alt>
+</hole>
+<hole number="7">
+<alt type="blow">G5</alt>
+<alt type="draw">A5</alt>
+</hole>
+<hole number="8">
+<alt type="blow">C6</alt>
+<alt type="draw">B5</alt>
+</hole>
+<hole number="9">
+<alt type="blow">E6</alt>
+<alt type="draw">D6</alt>
+</hole>
+<hole number="10">
+<alt type="blow">G6</alt>
+<alt type="draw">F6</alt>
+</hole>
+<hole number="11">
+<alt type="blow">C7</alt>
+<alt type="draw">A6</alt>
+</hole>
+<hole number="12">
+<alt type="blow">E7</alt>
+<alt type="draw">B6</alt>
+</hole>
+</harmonica>
+</harmotab>

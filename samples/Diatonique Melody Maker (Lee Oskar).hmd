@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<harmotab file-format-version="3.0" file-type="harmonica-model" harmotab-version="3.0">
+<harmonica holes="10" name="Diatonique Melody Maker (Lee Oskar)">
+<hole number="1">
+<alt type="blow">C3</alt>
+<alt type="draw">D3</alt>
+<alt type="half bend">C#3</alt>
+</hole>
+<hole number="2">
+<alt type="blow">E3</alt>
+<alt type="draw">G3</alt>
+<alt type="half bend">F#3</alt>
+<alt type="full bend">F3</alt>
+</hole>
+<hole number="3">
+<alt type="blow">A3</alt>
+<alt type="draw">B3</alt>
+<alt type="half bend">Bb3</alt>
+<alt type="full bend">A3</alt>
+</hole>
+<hole number="4">
+<alt type="blow">C4</alt>
+<alt type="draw">D4</alt>
+<alt type="half bend">C#4</alt>
+</hole>
+<hole number="5">
+<alt type="blow">E4</alt>
+<alt type="draw">F#4</alt>
+<alt type="half bend">F4</alt>
+</hole>
+<hole number="6">
+<alt type="blow">G4</alt>
+<alt type="draw">A4</alt>
+<alt type="half bend">G#4</alt>
+</hole>
+<hole number="7">
+<alt type="blow">C5</alt>
+<alt type="draw">B4</alt>
+</hole>
+<hole number="8">
+<alt type="half overblow">Eb5</alt>
+<alt type="blow">E5</alt>
+<alt type="draw">D5</alt>
+</hole>
+<hole number="9">
+<alt type="half overblow">F#5</alt>
+<alt type="blow">G5</alt>
+<alt type="draw">F#5</alt>
+</hole>
+<hole number="10">
+<alt type="full overblow">Bb5</alt>
+<alt type="half overblow">B5</alt>
+<alt type="blow">C6</alt>
+<alt type="draw">A5</alt>
+</hole>
+</harmonica>
+</harmotab>

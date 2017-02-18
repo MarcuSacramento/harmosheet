@@ -1,0 +1,1343 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<harmotab file-format-version="3.0" file-type="score" harmotab-version="3.0">
+<score comment="#c970c0e" description="" id="#47c297a3" songwriter="#4d91f801" tempo="#40bc5596" title="#203e1bc8">
+<textElement alignment="center" font="" fontFamily="DejaVu Sans" fontSize="26" fontStyle="1" id="#203e1bc8" text="Hey Jude"/>
+<textElement alignment="center" font="" fontFamily="DejaVu Sans" fontSize="20" fontStyle="0" id="#4d91f801" text="Beatles"/>
+<tempo id="#40bc5596" value="80"/>
+<textElement alignment="right" font="" fontFamily="DejaVu Sans" fontSize="14" fontStyle="0" id="#c970c0e" text="Slow"/>
+<track comment="" harmonica="#4b144ba2" id="#10987197" index="1" instrument="0" name="Piste HarmoTab" tabModel="#2a8a1977" type="harmoTabTrack" volume="80">
+<bar id="#8497904" key="#fa7f9dc" keySignature="#5d04e28b" repeatAttribute="#495b0e2c" timeSignature="#6bb54362">
+<key id="#fa7f9dc" value="G2"/>
+<keySignature id="#5d04e28b" index="-1"/>
+<timeSignature id="#6bb54362" number="4" reference="4"/>
+<repeatAttribute id="#495b0e2c"/>
+</bar>
+<harmotab figure="#525c7734" height="#3496212a" id="#78ff9053" tab="#6c5b675e">
+<figure id="#525c7734" type="quarter"/>
+<height id="#3496212a" note="C" octave="5"/>
+<tab direction="blow" effect="none" hole="4" id="#6c5b675e"/>
+</harmotab>
+<bar id="#64df83e5" repeatAttribute="#e4c6320">
+<repeatAttribute beginning="true" id="#e4c6320"/>
+</bar>
+<harmotab figure="#23000bcf" height="#580754fc" id="#38ffd135" tab="#495c998a">
+<figure id="#23000bcf" type="half"/>
+<height id="#580754fc" note="A" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="3" id="#495c998a"/>
+</harmotab>
+<harmotab figure="#df82ab4" height="#1fbb9696" id="#5e6458a6" tab="#549b6220" tied="true">
+<figure id="#df82ab4" type="eighth"/>
+<height id="#1fbb9696" note="A" octave="4"/>
+<tab direction="" effect="none" hole="0" id="#549b6220"/>
+</harmotab>
+<harmotab figure="#6c63a721" height="#2719f1f" id="#25474e45" tab="#7185ad79">
+<figure id="#6c63a721" type="eighth"/>
+<height id="#2719f1f" note="A" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="3" id="#7185ad79"/>
+</harmotab>
+<harmotab figure="#4a3a6e5c" height="#42238016" id="#7f401d28" tab="#28ae4646">
+<figure id="#4a3a6e5c" type="eighth"/>
+<height id="#42238016" note="C" octave="5"/>
+<tab direction="blow" effect="none" hole="4" id="#28ae4646"/>
+</harmotab>
+<harmotab figure="#6bd9e2c7" height="#2db7ae22" id="#4987b287" tab="#760951a0">
+<figure id="#6bd9e2c7" type="eighth"/>
+<height id="#2db7ae22" note="D" octave="5"/>
+<tab direction="draw" effect="none" hole="4" id="#760951a0"/>
+</harmotab>
+<harmotab dotted="true" figure="#68acfc3" height="#34e0e90" id="#5dce1bea" tab="#799e11a1">
+<figure dotted="true" id="#68acfc3" type="half"/>
+<height id="#34e0e90" note="G" octave="4"/>
+<tab direction="draw" effect="none" hole="2" id="#799e11a1"/>
+</harmotab>
+<harmotab figure="#2a62610b" height="#20d12eea" id="#78979f67" tab="#55f157b">
+<figure id="#2a62610b" type="eighth"/>
+<height id="#20d12eea" note="G" octave="4"/>
+<tab direction="draw" effect="none" hole="2" id="#55f157b"/>
+</harmotab>
+<harmotab figure="#3ee7f6eb" height="#6f03de90" id="#257b40fe" tab="#6708f8e0">
+<figure id="#3ee7f6eb" type="eighth"/>
+<height id="#6f03de90" note="A" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="3" id="#6708f8e0"/>
+</harmotab>
+<harmotab figure="#20a29c6e" height="#13cc0a7f" id="#7e0b6ef8" tab="#38c52200">
+<figure id="#20a29c6e" type="quarter"/>
+<height alteration="b" id="#13cc0a7f" note="B" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="3" id="#38c52200"/>
+</harmotab>
+<harmotab figure="#ec0a9f9" height="#ad72200" id="#163b4b1e" tab="#31f9338f">
+<figure id="#ec0a9f9" type="quarter"/>
+<height id="#ad72200" note="F" octave="5"/>
+<tab direction="draw" effect="none" hole="5" id="#31f9338f"/>
+</harmotab>
+<harmotab figure="#1164b9b6" height="#6bdc64a5" id="#5fa80aea" tab="#5253c3f5" tied="true">
+<figure id="#1164b9b6" type="eighth"/>
+<height id="#6bdc64a5" note="F" octave="5"/>
+<tab direction="" effect="none" hole="0" id="#5253c3f5"/>
+</harmotab>
+<harmotab figure="#24e33e18" height="#4301ac93" id="#7966340c" tab="#22e90943">
+<figure id="#24e33e18" type="eighth"/>
+<height id="#4301ac93" note="F" octave="5"/>
+<tab direction="draw" effect="none" hole="5" id="#22e90943"/>
+</harmotab>
+<harmotab figure="#1c1474ea" height="#307bd0d" id="#715f1f9c" tab="#710ca208">
+<figure id="#1c1474ea" type="eighth"/>
+<height id="#307bd0d" note="E" octave="5"/>
+<tab direction="blow" effect="none" hole="5" id="#710ca208"/>
+</harmotab>
+<harmotab figure="#4b2922f6" height="#79b66b06" id="#7461f533" tab="#372c9557">
+<figure id="#4b2922f6" type="eighth"/>
+<height id="#79b66b06" note="C" octave="5"/>
+<tab direction="blow" effect="none" hole="4" id="#372c9557"/>
+</harmotab>
+<harmotab figure="#58ca3783" height="#4402a6ff" id="#50009f0d" tab="#a21d23b">
+<figure id="#58ca3783" type="eighth"/>
+<height id="#4402a6ff" note="D" octave="5"/>
+<tab direction="draw" effect="none" hole="4" id="#a21d23b"/>
+</harmotab>
+<harmotab figure="#221f7708" height="#3fbfbfb8" id="#327124af" tab="#45c3e9ba">
+<figure id="#221f7708" type="sixteenth"/>
+<height id="#3fbfbfb8" note="C" octave="5"/>
+<tab direction="blow" effect="none" hole="4" id="#45c3e9ba"/>
+</harmotab>
+<harmotab figure="#1b0c6cfc" height="#4cc72243" id="#4125d61e" tab="#259a8416">
+<figure id="#1b0c6cfc" type="sixteenth"/>
+<height alteration="b" id="#4cc72243" note="B" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="3" id="#259a8416"/>
+</harmotab>
+<harmotab figure="#37b994de" height="#78dc9766" id="#4355d3a3" tab="#5a57e787">
+<figure id="#37b994de" type="half"/>
+<height id="#78dc9766" note="A" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="3" id="#5a57e787"/>
+</harmotab>
+<harmotab figure="#7df1bd98" height="#9d686c1" id="#41217e67" rest="true" tab="#6328edf2">
+<figure id="#7df1bd98" type="eighth"/>
+<height id="#9d686c1" note="A" octave="4"/>
+<tab bend="half" direction="" effect="none" hole="0" id="#6328edf2"/>
+</harmotab>
+<harmotab figure="#34c7e8a7" height="#307b4703" id="#141dddba" tab="#6d732ed2">
+<figure id="#34c7e8a7" type="eighth"/>
+<height id="#307b4703" note="C" octave="5"/>
+<tab direction="blow" effect="none" hole="4" id="#6d732ed2"/>
+</harmotab>
+<harmotab figure="#73fc3c84" height="#34e93999" id="#25071521" tab="#3bc486f2">
+<figure id="#73fc3c84" type="eighth"/>
+<height id="#34e93999" note="D" octave="5"/>
+<tab direction="draw" effect="none" hole="4" id="#3bc486f2"/>
+</harmotab>
+<harmotab figure="#40be76c7" height="#18682406" id="#63779885" tab="#5d15126e">
+<figure id="#40be76c7" type="quarter"/>
+<height id="#18682406" note="D" octave="5"/>
+<tab direction="draw" effect="none" hole="4" id="#5d15126e"/>
+</harmotab>
+<harmotab figure="#3b35b1f3" height="#4235e6e3" id="#126d2380" tab="#60c9630a">
+<figure id="#3b35b1f3" type="eighth"/>
+<height id="#4235e6e3" note="D" octave="5"/>
+<tab direction="draw" effect="none" hole="4" id="#60c9630a"/>
+</harmotab>
+<harmotab figure="#351daa0e" height="#2e879860" id="#4585572a" tab="#4824de7d">
+<figure id="#351daa0e" type="eighth"/>
+<height id="#2e879860" note="G" octave="5"/>
+<tab direction="blow" effect="none" hole="3" id="#4824de7d"/>
+</harmotab>
+<harmotab figure="#1b192059" height="#e9ac0f5" id="#6c8b058b" tab="#51f21c50">
+<figure id="#1b192059" type="eighth"/>
+<height id="#e9ac0f5" note="F" octave="5"/>
+<tab direction="draw" effect="none" hole="5" id="#51f21c50"/>
+</harmotab>
+<harmotab figure="#34fe315d" height="#1c5aebd9" id="#6e20f237" tab="#1532021a">
+<figure id="#34fe315d" triplet="true" type="eighth"/>
+<height id="#1c5aebd9" note="E" octave="5"/>
+<tab direction="blow" effect="none" hole="5" id="#1532021a"/>
+</harmotab>
+<harmotab figure="#2d13981b" height="#61672bbb" id="#62803d5" tab="#3c6833f2">
+<figure id="#2d13981b" triplet="true" type="eighth"/>
+<height id="#61672bbb" note="F" octave="5"/>
+<tab direction="draw" effect="none" hole="5" id="#3c6833f2"/>
+</harmotab>
+<harmotab figure="#e1bdb58" height="#46dd75a4" id="#5d2a73d9" tab="#75568654">
+<figure id="#e1bdb58" triplet="true" type="eighth"/>
+<height id="#46dd75a4" note="D" octave="5"/>
+<tab direction="draw" effect="none" hole="4" id="#75568654"/>
+</harmotab>
+<harmotab figure="#2a8ab08f" height="#774d921a" id="#38d30fb" tab="#5b32627">
+<figure id="#2a8ab08f" type="half"/>
+<height id="#774d921a" note="C" octave="5"/>
+<tab direction="blow" effect="none" hole="4" id="#5b32627"/>
+</harmotab>
+<harmotab figure="#49a5af9f" height="#1cad157f" id="#348dcd5d" tab="#275e538e">
+<figure id="#49a5af9f" type="eighth"/>
+<height id="#1cad157f" note="F" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="2" id="#275e538e"/>
+</harmotab>
+<harmotab figure="#2c9c82f4" height="#5759780d" id="#21bfa3d3" tab="#32d8ca48">
+<figure id="#2c9c82f4" type="eighth"/>
+<height id="#5759780d" note="G" octave="4"/>
+<tab direction="draw" effect="none" hole="2" id="#32d8ca48"/>
+</harmotab>
+<harmotab figure="#1acaf0ed" height="#18f6559" id="#36c8570c" tab="#6d46b6db">
+<figure id="#1acaf0ed" type="quarter"/>
+<height id="#18f6559" note="A" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="3" id="#6d46b6db"/>
+</harmotab>
+<harmotab figure="#7e717d91" height="#4ceafb71" id="#3d8f1be9" tab="#5721df2a">
+<figure id="#7e717d91" type="eighth"/>
+<height id="#4ceafb71" note="D" octave="5"/>
+<tab direction="draw" effect="none" hole="4" id="#5721df2a"/>
+</harmotab>
+<harmotab figure="#6c04ab2f" height="#2682d210" id="#70c26b16" tab="#56ad2c30">
+<figure id="#6c04ab2f" type="quarter"/>
+<height id="#2682d210" note="C" octave="5"/>
+<tab direction="blow" effect="none" hole="4" id="#56ad2c30"/>
+</harmotab>
+<harmotab figure="#50903025" height="#2a48f675" id="#3302fc5" tab="#1c2c9103">
+<figure id="#50903025" type="eighth"/>
+<height id="#2a48f675" note="C" octave="5"/>
+<tab direction="blow" effect="none" hole="4" id="#1c2c9103"/>
+</harmotab>
+<harmotab figure="#b05eb6f" height="#31a3ca10" id="#31e46a68" tab="#7826f9e5">
+<figure id="#b05eb6f" type="eighth"/>
+<height alteration="b" id="#31a3ca10" note="B" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="3" id="#7826f9e5"/>
+</harmotab>
+<harmotab figure="#368b1a4f" height="#666c5482" id="#46e06703" tab="#52205756">
+<figure id="#368b1a4f" type="quarter"/>
+<height id="#666c5482" note="A" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="3" id="#52205756"/>
+</harmotab>
+<harmotab figure="#10ed32c4" height="#449fea8a" id="#4945f939" tab="#5edf2d38">
+<figure id="#10ed32c4" type="eighth"/>
+<height id="#449fea8a" note="E" octave="4"/>
+<tab direction="blow" effect="none" hole="2" id="#5edf2d38"/>
+</harmotab>
+<harmotab figure="#39a2f02e" height="#78467991" id="#e11e831" tab="#5ad75c47">
+<figure id="#39a2f02e" type="quarter"/>
+<height id="#78467991" note="E" octave="4"/>
+<tab direction="blow" effect="none" hole="2" id="#5ad75c47"/>
+</harmotab>
+<harmotab figure="#6ef2ea42" height="#df1cbf6" id="#70eb67e8" tab="#7d858aa0">
+<figure id="#6ef2ea42" type="half"/>
+<height id="#df1cbf6" note="F" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="2" id="#7d858aa0"/>
+</harmotab>
+<harmotab figure="#5e628704" height="#168e4805" id="#4a504ec1" tab="#571a4bd4">
+<figure id="#5e628704" type="quarter"/>
+<height id="#168e4805" note="C" octave="5"/>
+<tab direction="blow" effect="none" hole="4" id="#571a4bd4"/>
+</harmotab>
+<harmotab figure="#239c7c21" height="#76996cca" id="#7f6877f8" tab="#52b57e9a">
+<figure id="#239c7c21" type="half"/>
+<height id="#76996cca" note="A" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="3" id="#52b57e9a"/>
+</harmotab>
+<harmotab figure="#7b283052" height="#b7c96a9" id="#98adae2" tab="#20873723" tied="true">
+<figure id="#7b283052" type="eighth"/>
+<height id="#b7c96a9" note="A" octave="4"/>
+<tab direction="" effect="none" hole="0" id="#20873723"/>
+</harmotab>
+<harmotab figure="#d522de2" height="#e425743" id="#d34eb84" tab="#256ef705">
+<figure id="#d522de2" type="eighth"/>
+<height id="#e425743" note="A" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="3" id="#256ef705"/>
+</harmotab>
+<harmotab figure="#34883357" height="#59e2afb2" id="#181b7c76" tab="#317cfd38">
+<figure id="#34883357" type="eighth"/>
+<height id="#59e2afb2" note="C" octave="5"/>
+<tab direction="blow" effect="none" hole="4" id="#317cfd38"/>
+</harmotab>
+<harmotab figure="#1b5b8520" height="#158105e8" id="#4d480ea" tab="#49aacd5f">
+<figure id="#1b5b8520" type="eighth"/>
+<height id="#158105e8" note="D" octave="5"/>
+<tab direction="draw" effect="none" hole="4" id="#49aacd5f"/>
+</harmotab>
+<harmotab dotted="true" figure="#336d8196" height="#5a56b93a" id="#6c913dc1" tab="#739abd2b">
+<figure dotted="true" id="#336d8196" type="half"/>
+<height id="#5a56b93a" note="G" octave="4"/>
+<tab direction="draw" effect="none" hole="2" id="#739abd2b"/>
+</harmotab>
+<harmotab figure="#44aea710" height="#265a2eaa" id="#33f98d58" tab="#6aadae91">
+<figure id="#44aea710" type="eighth"/>
+<height id="#265a2eaa" note="G" octave="4"/>
+<tab direction="draw" effect="none" hole="2" id="#6aadae91"/>
+</harmotab>
+<harmotab figure="#524c71d2" height="#18c4bc34" id="#309fe84e" tab="#1c2006a0">
+<figure id="#524c71d2" type="eighth"/>
+<height id="#18c4bc34" note="A" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="3" id="#1c2006a0"/>
+</harmotab>
+<harmotab figure="#49198ff2" height="#2d397e5c" id="#7a9300cc" tab="#1996e136">
+<figure id="#49198ff2" type="quarter"/>
+<height alteration="b" id="#2d397e5c" note="B" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="3" id="#1996e136"/>
+</harmotab>
+<harmotab figure="#6c91f005" height="#61250ff2" id="#9bad5a" tab="#483a0ab1">
+<figure id="#6c91f005" type="quarter"/>
+<height id="#61250ff2" note="F" octave="5"/>
+<tab direction="draw" effect="none" hole="5" id="#483a0ab1"/>
+</harmotab>
+<harmotab figure="#2e864e43" height="#737c2891" id="#5a940f82" tab="#5c4b82d2" tied="true">
+<figure id="#2e864e43" type="eighth"/>
+<height id="#737c2891" note="F" octave="5"/>
+<tab direction="" effect="none" hole="0" id="#5c4b82d2"/>
+</harmotab>
+<harmotab figure="#669a4cb" height="#1c20eb7" id="#6179d854" tab="#6b541147">
+<figure id="#669a4cb" type="eighth"/>
+<height id="#1c20eb7" note="F" octave="5"/>
+<tab direction="draw" effect="none" hole="5" id="#6b541147"/>
+</harmotab>
+<harmotab figure="#5867df9" height="#40b86944" id="#5c3a835d" tab="#b07108e">
+<figure id="#5867df9" type="eighth"/>
+<height id="#40b86944" note="E" octave="5"/>
+<tab direction="blow" effect="none" hole="5" id="#b07108e"/>
+</harmotab>
+<harmotab figure="#338e18a3" height="#35f38fc6" id="#7ccfe049" tab="#9642bd6">
+<figure id="#338e18a3" type="eighth"/>
+<height id="#35f38fc6" note="C" octave="5"/>
+<tab direction="blow" effect="none" hole="4" id="#9642bd6"/>
+</harmotab>
+<harmotab figure="#f5bfdbd" height="#606f8b2b" id="#f79f36b" tab="#3b19e583">
+<figure id="#f5bfdbd" type="eighth"/>
+<height id="#606f8b2b" note="D" octave="5"/>
+<tab direction="draw" effect="none" hole="4" id="#3b19e583"/>
+</harmotab>
+<harmotab figure="#14a8e586" height="#5c74cb02" id="#212b19c5" tab="#77bc1fb9">
+<figure id="#14a8e586" type="sixteenth"/>
+<height id="#5c74cb02" note="C" octave="5"/>
+<tab direction="blow" effect="none" hole="4" id="#77bc1fb9"/>
+</harmotab>
+<harmotab figure="#7bafb0c7" height="#4b7f1841" id="#5fc6e818" tab="#5117a20">
+<figure id="#7bafb0c7" type="sixteenth"/>
+<height alteration="b" id="#4b7f1841" note="B" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="3" id="#5117a20"/>
+</harmotab>
+<harmotab figure="#5289e2f1" height="#5a92668c" id="#3e68cd79" tab="#418a9fc8">
+<figure id="#5289e2f1" type="half"/>
+<height id="#5a92668c" note="A" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="3" id="#418a9fc8"/>
+</harmotab>
+<harmotab dotted="true" figure="#3582c132" height="#1b59d510" id="#74002515" rest="true" tab="#26b31b77">
+<figure dotted="true" id="#3582c132" type="eighth"/>
+<height id="#1b59d510" note="A" octave="4"/>
+<tab bend="half" direction="" effect="none" hole="0" id="#26b31b77"/>
+</harmotab>
+<harmotab figure="#6d66f9b9" height="#39518cc" id="#38d0357a" tab="#318efaea">
+<figure id="#6d66f9b9" type="eighth"/>
+<height id="#39518cc" note="C" octave="5"/>
+<tab direction="blow" effect="none" hole="4" id="#318efaea"/>
+</harmotab>
+<harmotab figure="#72940b84" height="#558041e0" id="#21fb3211" tab="#576504fa">
+<figure id="#72940b84" type="eighth"/>
+<height id="#558041e0" note="D" octave="5"/>
+<tab direction="draw" effect="none" hole="4" id="#576504fa"/>
+</harmotab>
+<harmotab figure="#7db5391b" height="#4b85c17" id="#2929e5e9" tab="#63a5ec6c">
+<figure id="#7db5391b" type="quarter"/>
+<height id="#4b85c17" note="D" octave="5"/>
+<tab direction="draw" effect="none" hole="4" id="#63a5ec6c"/>
+</harmotab>
+<harmotab figure="#56278e83" height="#3efd66a5" id="#2244d990" tab="#6e5dfaf1">
+<figure id="#56278e83" type="eighth"/>
+<height id="#3efd66a5" note="D" octave="5"/>
+<tab direction="draw" effect="none" hole="4" id="#6e5dfaf1"/>
+</harmotab>
+<harmotab figure="#154e4e31" height="#47ef7de4" id="#5c061cd2" tab="#3c3228a1">
+<figure id="#154e4e31" type="eighth"/>
+<height id="#47ef7de4" note="G" octave="5"/>
+<tab direction="blow" effect="none" hole="3" id="#3c3228a1"/>
+</harmotab>
+<harmotab figure="#16edbe39" height="#52639bf1" id="#10980e7" tab="#9931579">
+<figure id="#16edbe39" type="eighth"/>
+<height id="#52639bf1" note="F" octave="5"/>
+<tab direction="draw" effect="none" hole="5" id="#9931579"/>
+</harmotab>
+<harmotab figure="#5abd09e8" height="#30d58ce2" id="#1766bfd8" tab="#1414627a">
+<figure id="#5abd09e8" triplet="true" type="eighth"/>
+<height id="#30d58ce2" note="E" octave="5"/>
+<tab direction="blow" effect="none" hole="5" id="#1414627a"/>
+</harmotab>
+<harmotab figure="#7a20807c" height="#6bd38b87" id="#464d41e2" tab="#d6d835f">
+<figure id="#7a20807c" triplet="true" type="eighth"/>
+<height id="#6bd38b87" note="F" octave="5"/>
+<tab direction="draw" effect="none" hole="5" id="#d6d835f"/>
+</harmotab>
+<harmotab figure="#370a5c21" height="#92696c2" id="#10cbd8dc" tab="#44739f3f">
+<figure id="#370a5c21" triplet="true" type="eighth"/>
+<height id="#92696c2" note="D" octave="5"/>
+<tab direction="draw" effect="none" hole="4" id="#44739f3f"/>
+</harmotab>
+<harmotab figure="#3a98350a" height="#5ec24193" id="#2dc0435" tab="#235f4a7f">
+<figure id="#3a98350a" type="half"/>
+<height id="#5ec24193" note="C" octave="5"/>
+<tab direction="blow" effect="none" hole="4" id="#235f4a7f"/>
+</harmotab>
+<harmotab figure="#1e670479" height="#7d56b386" id="#4513e9fd" tab="#472462b3">
+<figure id="#1e670479" type="eighth"/>
+<height id="#7d56b386" note="F" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="2" id="#472462b3"/>
+</harmotab>
+<harmotab figure="#729b1670" height="#23de4dd8" id="#25cbfa42" tab="#57c8b24d">
+<figure id="#729b1670" type="eighth"/>
+<height id="#23de4dd8" note="G" octave="4"/>
+<tab direction="draw" effect="none" hole="2" id="#57c8b24d"/>
+</harmotab>
+<harmotab figure="#43f4ebd" height="#584a5c78" id="#39320a41" tab="#79fcf790">
+<figure id="#43f4ebd" type="quarter"/>
+<height id="#584a5c78" note="A" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="3" id="#79fcf790"/>
+</harmotab>
+<harmotab figure="#29a7789c" height="#31df5f21" id="#4ee14d81" tab="#3fde891b">
+<figure id="#29a7789c" type="eighth"/>
+<height id="#31df5f21" note="D" octave="5"/>
+<tab direction="draw" effect="none" hole="4" id="#3fde891b"/>
+</harmotab>
+<harmotab figure="#6087e704" height="#7a4fe91e" id="#2afb6c5f" tab="#1451ef4e">
+<figure id="#6087e704" type="quarter"/>
+<height id="#7a4fe91e" note="C" octave="5"/>
+<tab direction="blow" effect="none" hole="4" id="#1451ef4e"/>
+</harmotab>
+<harmotab figure="#1f3a34af" height="#2658dd2d" id="#f35f44e" tab="#1420c906">
+<figure id="#1f3a34af" type="eighth"/>
+<height id="#2658dd2d" note="C" octave="5"/>
+<tab direction="blow" effect="none" hole="4" id="#1420c906"/>
+</harmotab>
+<harmotab figure="#4e1263db" height="#1959e6e8" id="#746db33c" tab="#5d469658">
+<figure id="#4e1263db" type="eighth"/>
+<height alteration="b" id="#1959e6e8" note="B" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="3" id="#5d469658"/>
+</harmotab>
+<harmotab figure="#758689a" height="#3d3b5a3a" id="#45389b3f" tab="#3a0b53e">
+<figure id="#758689a" type="quarter"/>
+<height id="#3d3b5a3a" note="A" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="3" id="#3a0b53e"/>
+</harmotab>
+<harmotab figure="#35a8d460" height="#5f0f0625" id="#2bdafb4e" tab="#535c97e4">
+<figure id="#35a8d460" type="eighth"/>
+<height id="#5f0f0625" note="E" octave="4"/>
+<tab direction="blow" effect="none" hole="2" id="#535c97e4"/>
+</harmotab>
+<harmotab figure="#3823bdd1" height="#32830122" id="#63f8247d" tab="#36bf7916">
+<figure id="#3823bdd1" type="quarter"/>
+<height id="#32830122" note="E" octave="4"/>
+<tab direction="blow" effect="none" hole="2" id="#36bf7916"/>
+</harmotab>
+<harmotab dotted="true" figure="#b478a2d" height="#5c09624" id="#54a6af6e" tab="#26c1186f">
+<figure dotted="true" id="#b478a2d" type="half"/>
+<height id="#5c09624" note="F" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="2" id="#26c1186f"/>
+</harmotab>
+<harmotab figure="#1d34263a" height="#4ab9b8d0" id="#4f2b3349" rest="true" tab="#67148603">
+<figure id="#1d34263a" type="eighth"/>
+<height id="#4ab9b8d0" note="C" octave="5"/>
+<tab direction="" effect="none" hole="0" id="#67148603"/>
+</harmotab>
+<harmotab figure="#74bfed5a" height="#6477eb97" id="#746a63d3" tab="#7d0c3a08">
+<figure id="#74bfed5a" type="eighth"/>
+<height id="#6477eb97" note="F" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="2" id="#7d0c3a08"/>
+</harmotab>
+<harmotab figure="#10cb42cf" height="#108f2ca6" id="#2db6235b" tab="#27bc4ec8">
+<figure id="#10cb42cf" type="eighth"/>
+<height id="#108f2ca6" note="F" octave="5"/>
+<tab direction="draw" effect="none" hole="5" id="#27bc4ec8"/>
+</harmotab>
+<harmotab figure="#72898540" height="#228b677f" id="#3bd840d9" tab="#6e37d490">
+<figure id="#72898540" type="eighth"/>
+<height alteration="b" id="#228b677f" note="E" octave="5"/>
+<tab direction="" effect="none" hole="0" id="#6e37d490"/>
+</harmotab>
+<harmotab figure="#27972e3a" height="#365bf624" id="#13647278" tab="#4f7cd15d">
+<figure id="#27972e3a" type="eighth"/>
+<height id="#365bf624" note="D" octave="5"/>
+<tab direction="draw" effect="none" hole="4" id="#4f7cd15d"/>
+</harmotab>
+<harmotab figure="#7a22ce00" height="#302a0a5" id="#b955970" tab="#2180b22e">
+<figure id="#7a22ce00" type="eighth"/>
+<height id="#302a0a5" note="C" octave="5"/>
+<tab direction="blow" effect="none" hole="4" id="#2180b22e"/>
+</harmotab>
+<harmotab figure="#962522b" height="#160089dd" id="#831fb31" tab="#7d5b1773">
+<figure id="#962522b" type="eighth"/>
+<height id="#160089dd" note="C" octave="5"/>
+<tab direction="blow" effect="none" hole="4" id="#7d5b1773"/>
+</harmotab>
+<harmotab figure="#b05236" height="#37e55794" id="#6760bf50" tab="#31d8d237">
+<figure id="#b05236" type="eighth"/>
+<height alteration="b" id="#37e55794" note="B" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="3" id="#31d8d237"/>
+</harmotab>
+<harmotab figure="#3d46e381" height="#79024994" id="#11d13272" tab="#52cd19d">
+<figure id="#3d46e381" type="quarter"/>
+<height alteration="b" id="#79024994" note="B" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="3" id="#52cd19d"/>
+</harmotab>
+<harmotab figure="#109b2a51" height="#3af7345b" id="#41759d12" tab="#3b8e609b">
+<figure id="#109b2a51" type="eighth"/>
+<height id="#3af7345b" note="F" octave="5"/>
+<tab direction="draw" effect="none" hole="5" id="#3b8e609b"/>
+</harmotab>
+<harmotab figure="#4c538974" height="#6545d2" id="#687ea9" tab="#78cade31">
+<figure id="#4c538974" type="eighth"/>
+<height id="#6545d2" note="D" octave="5"/>
+<tab direction="draw" effect="none" hole="4" id="#78cade31"/>
+</harmotab>
+<harmotab dotted="true" figure="#a2bccb2" height="#418bbf55" id="#4ec1a0eb" tab="#3dbe8711" tied="true">
+<figure dotted="true" id="#a2bccb2" type="quarter"/>
+<height id="#418bbf55" note="D" octave="5"/>
+<tab direction="" effect="none" hole="0" id="#3dbe8711"/>
+</harmotab>
+<harmotab figure="#4b4c28db" height="#750e687b" id="#27958cc2" tab="#4ed9f47">
+<figure id="#4b4c28db" type="eighth"/>
+<height id="#750e687b" note="F" octave="5"/>
+<tab direction="draw" effect="none" hole="5" id="#4ed9f47"/>
+</harmotab>
+<harmotab figure="#fc8fb4b" height="#53ea0105" id="#c73f0d8" tab="#27e91a4d">
+<figure id="#fc8fb4b" type="quarter"/>
+<height alteration="b" id="#53ea0105" note="B" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="3" id="#27e91a4d"/>
+</harmotab>
+<harmotab figure="#340523df" height="#3d762027" id="#38bdc9b3" tab="#1638fff7">
+<figure id="#340523df" type="eighth"/>
+<height id="#3d762027" note="F" octave="5"/>
+<tab direction="draw" effect="none" hole="5" id="#1638fff7"/>
+</harmotab>
+<harmotab figure="#410d3f0d" height="#4ca68fd8" id="#782cbc86" tab="#4b2dd538">
+<figure id="#410d3f0d" type="eighth"/>
+<height id="#4ca68fd8" note="D" octave="5"/>
+<tab direction="draw" effect="none" hole="4" id="#4b2dd538"/>
+</harmotab>
+<harmotab figure="#6f27f79d" height="#28f19d6e" id="#2e097617" tab="#e96b5c2" tied="true">
+<figure id="#6f27f79d" type="eighth"/>
+<height id="#28f19d6e" note="D" octave="5"/>
+<tab direction="" effect="none" hole="0" id="#e96b5c2"/>
+</harmotab>
+<harmotab figure="#73265109" height="#589260ee" id="#4876db09" tab="#7219d6af">
+<figure id="#73265109" type="eighth"/>
+<height id="#589260ee" note="C" octave="5"/>
+<tab direction="blow" effect="none" hole="4" id="#7219d6af"/>
+</harmotab>
+<harmotab figure="#3a42f352" height="#174aa60" id="#7e5db5ae" tab="#125d855f">
+<figure id="#3a42f352" type="quarter"/>
+<height alteration="b" id="#174aa60" note="B" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="3" id="#125d855f"/>
+</harmotab>
+<harmotab figure="#6a1681ea" height="#6bab600f" id="#39df2964" tab="#402fb002">
+<figure id="#6a1681ea" type="quarter"/>
+<height id="#6bab600f" note="C" octave="5"/>
+<tab direction="blow" effect="none" hole="4" id="#402fb002"/>
+</harmotab>
+<harmotab figure="#4e2892b" height="#349b688e" id="#7acc7439" tab="#46ed5d9d">
+<figure id="#4e2892b" type="eighth"/>
+<height id="#349b688e" note="D" octave="5"/>
+<tab direction="draw" effect="none" hole="4" id="#46ed5d9d"/>
+</harmotab>
+<harmotab figure="#273d1402" height="#1aeca36e" id="#99d12cc" tab="#25dd9891">
+<figure id="#273d1402" type="eighth"/>
+<height id="#1aeca36e" note="C" octave="5"/>
+<tab direction="blow" effect="none" hole="4" id="#25dd9891"/>
+</harmotab>
+<harmotab figure="#785e8d7d" height="#79b4748" id="#774b6b02" tab="#6364cbde" tied="true">
+<figure id="#785e8d7d" type="quarter"/>
+<height id="#79b4748" note="C" octave="5"/>
+<tab direction="" effect="none" hole="0" id="#6364cbde"/>
+</harmotab>
+<harmotab figure="#40bb2bc3" height="#40363068" id="#6e848ecc" tab="#25a41cc7">
+<figure id="#40bb2bc3" type="quarter"/>
+<height alteration="b" id="#40363068" note="B" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="3" id="#25a41cc7"/>
+</harmotab>
+<harmotab figure="#2151b0a5" height="#7a2431b9" id="#395d601f" tab="#5e3ca754">
+<figure id="#2151b0a5" type="eighth"/>
+<height id="#7a2431b9" note="A" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="3" id="#5e3ca754"/>
+</harmotab>
+<harmotab figure="#219fdbcb" height="#616fdac" id="#600dac21" tab="#4f682a53">
+<figure id="#219fdbcb" type="eighth"/>
+<height id="#616fdac" note="G" octave="4"/>
+<tab direction="draw" effect="none" hole="2" id="#4f682a53"/>
+</harmotab>
+<harmotab dotted="true" figure="#767a9224" height="#6910b640" id="#3fb2d7df" tab="#482d59a3">
+<figure dotted="true" id="#767a9224" type="half"/>
+<height id="#6910b640" note="F" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="2" id="#482d59a3"/>
+</harmotab>
+<harmotab figure="#60c0c8b5" height="#10b914b3" id="#1958015a" rest="true" tab="#66fdfc58">
+<figure id="#60c0c8b5" type="eighth"/>
+<height id="#10b914b3" note="F" octave="4"/>
+<tab bend="half" direction="" effect="none" hole="0" id="#66fdfc58"/>
+</harmotab>
+<harmotab figure="#7f629e71" height="#23904e0d" id="#2cc22a3b" tab="#56f449b8">
+<figure id="#7f629e71" type="eighth"/>
+<height id="#23904e0d" note="F" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="2" id="#56f449b8"/>
+</harmotab>
+<harmotab figure="#5fed27e4" height="#4ad61aef" id="#4013fba1" tab="#2e82674b">
+<figure id="#5fed27e4" type="eighth"/>
+<height id="#4ad61aef" note="F" octave="5"/>
+<tab direction="draw" effect="none" hole="5" id="#2e82674b"/>
+</harmotab>
+<harmotab figure="#62fa5ff3" height="#23b17d49" id="#734b84c7" tab="#599855ed">
+<figure id="#62fa5ff3" type="eighth"/>
+<height id="#23b17d49" note="D" octave="5"/>
+<tab direction="draw" effect="none" hole="4" id="#599855ed"/>
+</harmotab>
+<harmotab figure="#bc794cc" height="#5bf9e31e" id="#2031688f" tab="#72adf5be">
+<figure id="#bc794cc" type="eighth"/>
+<height id="#5bf9e31e" note="D" octave="5"/>
+<tab direction="draw" effect="none" hole="4" id="#72adf5be"/>
+</harmotab>
+<harmotab figure="#3b5b123b" height="#5809fdee" id="#7ae0c7c3" tab="#77fe4169">
+<figure id="#3b5b123b" type="eighth"/>
+<height id="#5809fdee" note="C" octave="5"/>
+<tab direction="blow" effect="none" hole="4" id="#77fe4169"/>
+</harmotab>
+<harmotab figure="#5ebbfa5c" height="#731de9b" id="#5578920a" tab="#5b0d95cd">
+<figure id="#5ebbfa5c" type="eighth"/>
+<height id="#731de9b" note="C" octave="5"/>
+<tab direction="blow" effect="none" hole="4" id="#5b0d95cd"/>
+</harmotab>
+<harmotab figure="#61128f5a" height="#9818f80" id="#58e5f46e" tab="#18f42160">
+<figure id="#61128f5a" type="eighth"/>
+<height alteration="b" id="#9818f80" note="B" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="3" id="#18f42160"/>
+</harmotab>
+<harmotab figure="#36eb7331" height="#1bd7b222" id="#43bb326c" tab="#6defe475">
+<figure id="#36eb7331" type="quarter"/>
+<height id="#1bd7b222" note="D" octave="5"/>
+<tab direction="draw" effect="none" hole="4" id="#6defe475"/>
+</harmotab>
+<harmotab figure="#30dc9065" height="#608beff2" id="#207ff5b6" tab="#3362a63">
+<figure id="#30dc9065" type="eighth"/>
+<height id="#608beff2" note="F" octave="5"/>
+<tab direction="draw" effect="none" hole="5" id="#3362a63"/>
+</harmotab>
+<harmotab figure="#6ac67a88" height="#c96ad7c" id="#5918cb3a" tab="#7857ae58">
+<figure id="#6ac67a88" type="eighth"/>
+<height id="#c96ad7c" note="D" octave="5"/>
+<tab direction="draw" effect="none" hole="4" id="#7857ae58"/>
+</harmotab>
+<harmotab figure="#756f70a4" height="#674c5b37" id="#44775121" tab="#45f8acdc" tied="true">
+<figure id="#756f70a4" type="quarter"/>
+<height id="#674c5b37" note="D" octave="5"/>
+<tab direction="" effect="none" hole="0" id="#45f8acdc"/>
+</harmotab>
+<harmotab figure="#7f60c4b0" height="#2a114025" id="#491cc367" tab="#528a52b6">
+<figure id="#7f60c4b0" type="quarter"/>
+<height id="#2a114025" note="F" octave="5"/>
+<tab direction="draw" effect="none" hole="5" id="#528a52b6"/>
+</harmotab>
+<harmotab figure="#19f488f1" height="#54a9387" id="#773c550f" tab="#631b86c7">
+<figure id="#19f488f1" type="quarter"/>
+<height alteration="b" id="#54a9387" note="B" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="3" id="#631b86c7"/>
+</harmotab>
+<harmotab figure="#30d647d8" height="#4406cef4" id="#242da5a6" tab="#1afd1810">
+<figure id="#30d647d8" type="eighth"/>
+<height id="#4406cef4" note="F" octave="5"/>
+<tab direction="draw" effect="none" hole="5" id="#1afd1810"/>
+</harmotab>
+<harmotab figure="#60a415a3" height="#3488b1e6" id="#5e36d047" tab="#7a578dfb">
+<figure id="#60a415a3" type="eighth"/>
+<height id="#3488b1e6" note="D" octave="5"/>
+<tab direction="draw" effect="none" hole="4" id="#7a578dfb"/>
+</harmotab>
+<harmotab figure="#72813bc1" height="#27a36a2" id="#a2a987d" tab="#2598c6f3" tied="true">
+<figure id="#72813bc1" type="eighth"/>
+<height id="#27a36a2" note="D" octave="5"/>
+<tab direction="" effect="none" hole="0" id="#2598c6f3"/>
+</harmotab>
+<harmotab figure="#5fa5e5e" height="#78497062" id="#512d8ecd" tab="#1d716fa0">
+<figure id="#5fa5e5e" type="eighth"/>
+<height id="#78497062" note="C" octave="5"/>
+<tab direction="blow" effect="none" hole="4" id="#1d716fa0"/>
+</harmotab>
+<harmotab figure="#3eb3cac9" height="#dc67248" id="#257807a" tab="#5f78dc08">
+<figure id="#3eb3cac9" type="quarter"/>
+<height alteration="b" id="#dc67248" note="B" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="3" id="#5f78dc08"/>
+</harmotab>
+<harmotab figure="#3ddfd90f" height="#33238785" id="#77b5c22f" tab="#619646fd">
+<figure id="#3ddfd90f" type="quarter"/>
+<height id="#33238785" note="C" octave="5"/>
+<tab direction="blow" effect="none" hole="4" id="#619646fd"/>
+</harmotab>
+<harmotab figure="#1ee2433b" height="#18abe654" id="#510ebe18" tab="#3d9ea173">
+<figure id="#1ee2433b" type="eighth"/>
+<height id="#18abe654" note="D" octave="5"/>
+<tab direction="draw" effect="none" hole="4" id="#3d9ea173"/>
+</harmotab>
+<harmotab figure="#21270107" height="#7b48392" id="#7979a49f" tab="#5c29ea31">
+<figure id="#21270107" type="eighth"/>
+<height id="#7b48392" note="C" octave="5"/>
+<tab direction="blow" effect="none" hole="4" id="#5c29ea31"/>
+</harmotab>
+<harmotab figure="#239a0feb" height="#578b1f8f" id="#43ce663c" tab="#6ec5122f" tied="true">
+<figure id="#239a0feb" type="quarter"/>
+<height id="#578b1f8f" note="C" octave="5"/>
+<tab direction="" effect="none" hole="0" id="#6ec5122f"/>
+</harmotab>
+<harmotab figure="#1f80cb01" height="#408fbecf" id="#4c2d0479" tab="#1d382926">
+<figure id="#1f80cb01" type="quarter"/>
+<height alteration="b" id="#408fbecf" note="B" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="3" id="#1d382926"/>
+</harmotab>
+<harmotab figure="#4cd4544" height="#407e75d2" id="#52158cc6" tab="#2e694f12">
+<figure id="#4cd4544" type="eighth"/>
+<height id="#407e75d2" note="A" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="3" id="#2e694f12"/>
+</harmotab>
+<harmotab figure="#4c345b43" height="#153b2cb" id="#3c63e8c" tab="#1dff2e1b">
+<figure id="#4c345b43" type="eighth"/>
+<height id="#153b2cb" note="G" octave="4"/>
+<tab direction="draw" effect="none" hole="2" id="#1dff2e1b"/>
+</harmotab>
+<harmotab figure="#4c309f9f" height="#c3fa6cd" id="#5c2bfdff" tab="#26dfe303">
+<figure id="#4c309f9f" type="quarter"/>
+<height id="#c3fa6cd" note="F" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="2" id="#26dfe303"/>
+</harmotab>
+<harmotab figure="#4bd27069" height="#64d22462" id="#34b0ede5" rest="true" tab="#2052d1a4">
+<figure id="#4bd27069" type="eighth"/>
+<height id="#64d22462" note="F" octave="4"/>
+<tab bend="half" direction="" effect="none" hole="0" id="#2052d1a4"/>
+</harmotab>
+<harmotab figure="#34cef6f1" height="#7fb6634c" id="#1d417690" tab="#1f315415">
+<figure id="#34cef6f1" type="eighth"/>
+<height id="#7fb6634c" note="F" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="2" id="#1f315415"/>
+</harmotab>
+<harmotab figure="#2825491d" height="#27e32382" id="#5f873eb2" tab="#31304043">
+<figure id="#2825491d" type="eighth"/>
+<height id="#27e32382" note="C" octave="5"/>
+<tab direction="blow" effect="none" hole="4" id="#31304043"/>
+</harmotab>
+<harmotab figure="#2b76086d" height="#52234265" id="#56cb07ef" tab="#8dc1f04">
+<figure id="#2b76086d" type="eighth"/>
+<height id="#52234265" note="D" octave="5"/>
+<tab direction="draw" effect="none" hole="4" id="#8dc1f04"/>
+</harmotab>
+<harmotab figure="#64c272bc" height="#19fac852" id="#2b784427" tab="#1f758cd1">
+<figure id="#64c272bc" type="eighth"/>
+<height alteration="b" id="#19fac852" note="E" octave="5"/>
+<tab direction="" effect="none" hole="0" id="#1f758cd1"/>
+</harmotab>
+<harmotab figure="#a6a435f" height="#466d1750" id="#5e6ffd79" tab="#2415a94f">
+<figure id="#a6a435f" type="eighth"/>
+<height id="#466d1750" note="D" octave="5"/>
+<tab direction="draw" effect="none" hole="4" id="#2415a94f"/>
+</harmotab>
+<harmotab figure="#5d89635d" height="#66da9ea4" id="#a1e940b" tab="#1ae555bd">
+<figure id="#5d89635d" type="quarter"/>
+<height alteration="b" id="#66da9ea4" note="E" octave="5"/>
+<tab direction="" effect="none" hole="0" id="#1ae555bd"/>
+</harmotab>
+<harmotab figure="#46da3772" height="#206e41b5" id="#465ff916" tab="#269be2b5">
+<figure id="#46da3772" type="eighth"/>
+<height alteration="b" id="#206e41b5" note="E" octave="5"/>
+<tab direction="blow" effect="none" hole="5" id="#269be2b5"/>
+</harmotab>
+<harmotab figure="#27f8922" height="#3041876" id="#4440ece0" tab="#1e1ec86">
+<figure id="#27f8922" type="eighth"/>
+<height id="#3041876" note="F" octave="5"/>
+<tab direction="draw" effect="none" hole="5" id="#1e1ec86"/>
+</harmotab>
+<harmotab figure="#d896a4c" height="#38a1aa85" id="#176f5261" tab="#7dc21ece">
+<figure id="#d896a4c" type="quarter"/>
+<height id="#38a1aa85" note="G" octave="5"/>
+<tab direction="blow" effect="none" hole="3" id="#7dc21ece"/>
+</harmotab>
+<harmotab dotted="true" figure="#f786a3c" height="#2a869113" id="#5374a6e2" tab="#689e8c34">
+<figure dotted="true" id="#f786a3c" type="half"/>
+<height id="#2a869113" note="G" octave="5"/>
+<tab direction="blow" effect="none" hole="3" id="#689e8c34"/>
+</harmotab>
+<harmotab figure="#6a40afb9" height="#3cd0d12e" id="#106df95" tab="#31554233">
+<figure id="#6a40afb9" type="quarter"/>
+<height id="#3cd0d12e" note="C" octave="5"/>
+<tab direction="blow" effect="none" hole="4" id="#31554233"/>
+</harmotab>
+<harmotab figure="#4f62198b" height="#317b1d64" id="#546d3b92" tab="#9c6a99d">
+<figure id="#4f62198b" type="half"/>
+<height id="#317b1d64" note="A" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="3" id="#9c6a99d"/>
+</harmotab>
+<harmotab figure="#50fa70a4" height="#69f94884" id="#51a9876e" tab="#6d080876" tied="true">
+<figure id="#50fa70a4" type="eighth"/>
+<height id="#69f94884" note="A" octave="4"/>
+<tab direction="" effect="none" hole="0" id="#6d080876"/>
+</harmotab>
+<harmotab figure="#77762fc7" height="#703aef16" id="#2a63b2e6" tab="#2d26c6ea">
+<figure id="#77762fc7" type="eighth"/>
+<height id="#703aef16" note="A" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="3" id="#2d26c6ea"/>
+</harmotab>
+<harmotab figure="#381eb0c6" height="#66e7b3f2" id="#4ccd43ce" tab="#75d709a5">
+<figure id="#381eb0c6" type="eighth"/>
+<height id="#66e7b3f2" note="C" octave="5"/>
+<tab direction="blow" effect="none" hole="4" id="#75d709a5"/>
+</harmotab>
+<harmotab figure="#170d9151" height="#7bbf68a9" id="#78ba6c13" tab="#53706eb7">
+<figure id="#170d9151" type="eighth"/>
+<height id="#7bbf68a9" note="D" octave="5"/>
+<tab direction="draw" effect="none" hole="4" id="#53706eb7"/>
+</harmotab>
+<harmotab dotted="true" figure="#de16483" height="#488ddb93" id="#7a74db2c" tab="#594ab51b">
+<figure dotted="true" id="#de16483" type="half"/>
+<height id="#488ddb93" note="G" octave="4"/>
+<tab direction="draw" effect="none" hole="2" id="#594ab51b"/>
+</harmotab>
+<harmotab figure="#1cad6513" height="#3bc6d11a" id="#37b82d69" tab="#79ca209e">
+<figure id="#1cad6513" type="eighth"/>
+<height id="#3bc6d11a" note="G" octave="4"/>
+<tab direction="draw" effect="none" hole="2" id="#79ca209e"/>
+</harmotab>
+<harmotab figure="#26c59ad5" height="#773829d5" id="#4523a389" tab="#8429c19">
+<figure id="#26c59ad5" type="eighth"/>
+<height id="#773829d5" note="A" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="3" id="#8429c19"/>
+</harmotab>
+<harmotab figure="#6c0ec436" height="#3d73eca6" id="#4d16318b" tab="#5b5a5cf">
+<figure id="#6c0ec436" type="quarter"/>
+<height alteration="b" id="#3d73eca6" note="B" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="3" id="#5b5a5cf"/>
+</harmotab>
+<harmotab figure="#135c40eb" height="#daa0e3b" id="#5898bbf6" tab="#178c4a7f">
+<figure id="#135c40eb" type="quarter"/>
+<height id="#daa0e3b" note="F" octave="5"/>
+<tab direction="draw" effect="none" hole="5" id="#178c4a7f"/>
+</harmotab>
+<harmotab figure="#2d35da43" height="#2a8c7be5" id="#7b6ee3ec" tab="#6d1a0d35" tied="true">
+<figure id="#2d35da43" type="eighth"/>
+<height id="#2a8c7be5" note="F" octave="5"/>
+<tab direction="" effect="none" hole="0" id="#6d1a0d35"/>
+</harmotab>
+<harmotab figure="#52c4c57" height="#1f47e668" id="#49594a88" tab="#2967c5e3">
+<figure id="#52c4c57" type="eighth"/>
+<height id="#1f47e668" note="F" octave="5"/>
+<tab direction="draw" effect="none" hole="5" id="#2967c5e3"/>
+</harmotab>
+<harmotab figure="#1ebafdff" height="#679801c" id="#5bf0cf51" tab="#12c9b196">
+<figure id="#1ebafdff" type="eighth"/>
+<height id="#679801c" note="E" octave="5"/>
+<tab direction="blow" effect="none" hole="5" id="#12c9b196"/>
+</harmotab>
+<harmotab figure="#37f8d244" height="#30b48b11" id="#77a9f87c" tab="#1d162212">
+<figure id="#37f8d244" type="eighth"/>
+<height id="#30b48b11" note="C" octave="5"/>
+<tab direction="blow" effect="none" hole="4" id="#1d162212"/>
+</harmotab>
+<harmotab figure="#46d999a" height="#377f4fbb" id="#1816daa9" tab="#74b9a74">
+<figure id="#46d999a" type="eighth"/>
+<height id="#377f4fbb" note="D" octave="5"/>
+<tab direction="draw" effect="none" hole="4" id="#74b9a74"/>
+</harmotab>
+<harmotab figure="#5d185844" height="#694b081b" id="#74893969" tab="#3d015a9e">
+<figure id="#5d185844" type="sixteenth"/>
+<height id="#694b081b" note="C" octave="5"/>
+<tab direction="blow" effect="none" hole="4" id="#3d015a9e"/>
+</harmotab>
+<harmotab figure="#64e8606c" height="#54128635" id="#23e45a5c" tab="#c292cb2">
+<figure id="#64e8606c" type="sixteenth"/>
+<height alteration="b" id="#54128635" note="B" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="3" id="#c292cb2"/>
+</harmotab>
+<harmotab figure="#4548e798" height="#355ccfb1" id="#6335605a" tab="#604788d5">
+<figure id="#4548e798" type="half"/>
+<height id="#355ccfb1" note="A" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="3" id="#604788d5"/>
+</harmotab>
+<harmotab figure="#1710278e" height="#2594e776" id="#78688954" rest="true" tab="#52e80740">
+<figure id="#1710278e" type="eighth"/>
+<height id="#2594e776" note="A" octave="4"/>
+<tab bend="half" direction="" effect="none" hole="0" id="#52e80740"/>
+</harmotab>
+<harmotab figure="#387b1641" height="#18f2225f" id="#7f342545" tab="#40ae97c4">
+<figure id="#387b1641" type="eighth"/>
+<height id="#18f2225f" note="C" octave="5"/>
+<tab direction="blow" effect="none" hole="4" id="#40ae97c4"/>
+</harmotab>
+<harmotab figure="#19195c2b" height="#4ff217ec" id="#66de609" tab="#1f00aff5">
+<figure id="#19195c2b" type="eighth"/>
+<height id="#4ff217ec" note="D" octave="5"/>
+<tab direction="draw" effect="none" hole="4" id="#1f00aff5"/>
+</harmotab>
+<harmotab figure="#42652110" height="#7d5dc37d" id="#66200db9" tab="#16cd83d8">
+<figure id="#42652110" type="quarter"/>
+<height id="#7d5dc37d" note="D" octave="5"/>
+<tab direction="draw" effect="none" hole="4" id="#16cd83d8"/>
+</harmotab>
+<harmotab figure="#40e7e8eb" height="#396cbd97" id="#e8ae59a" tab="#121321f5">
+<figure id="#40e7e8eb" type="eighth"/>
+<height id="#396cbd97" note="D" octave="5"/>
+<tab direction="draw" effect="none" hole="4" id="#121321f5"/>
+</harmotab>
+<harmotab figure="#ee31e33" height="#60d3ade7" id="#261a6518" tab="#693e4a5a">
+<figure id="#ee31e33" type="eighth"/>
+<height id="#60d3ade7" note="G" octave="5"/>
+<tab direction="blow" effect="none" hole="3" id="#693e4a5a"/>
+</harmotab>
+<harmotab figure="#59050a0" height="#459d3b3a" id="#788390b0" tab="#559b808a">
+<figure id="#59050a0" type="eighth"/>
+<height id="#459d3b3a" note="F" octave="5"/>
+<tab direction="draw" effect="none" hole="5" id="#559b808a"/>
+</harmotab>
+<harmotab figure="#7121fd61" height="#6e82254d" id="#54140fee" tab="#225f1ae9">
+<figure id="#7121fd61" triplet="true" type="eighth"/>
+<height id="#6e82254d" note="E" octave="5"/>
+<tab direction="blow" effect="none" hole="5" id="#225f1ae9"/>
+</harmotab>
+<harmotab figure="#7aec898a" height="#3f3a0212" id="#11dfc8a0" tab="#795e0c2b">
+<figure id="#7aec898a" triplet="true" type="eighth"/>
+<height id="#3f3a0212" note="F" octave="5"/>
+<tab direction="draw" effect="none" hole="5" id="#795e0c2b"/>
+</harmotab>
+<harmotab figure="#7c34151f" height="#3f56e5ed" id="#d71194d" tab="#62114b17">
+<figure id="#7c34151f" triplet="true" type="eighth"/>
+<height id="#3f56e5ed" note="D" octave="5"/>
+<tab direction="draw" effect="none" hole="4" id="#62114b17"/>
+</harmotab>
+<harmotab figure="#7f6b321b" height="#56a6cbf7" id="#5d59054d" tab="#6098f192">
+<figure id="#7f6b321b" type="half"/>
+<height id="#56a6cbf7" note="C" octave="5"/>
+<tab direction="blow" effect="none" hole="4" id="#6098f192"/>
+</harmotab>
+<harmotab figure="#337748d3" height="#5c4e2f0a" id="#591bd9c9" tab="#10f268de">
+<figure id="#337748d3" type="eighth"/>
+<height id="#5c4e2f0a" note="F" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="2" id="#10f268de"/>
+</harmotab>
+<harmotab figure="#6bc5af2e" height="#7f702c48" id="#1ac2cf83" tab="#1d6b6c55">
+<figure id="#6bc5af2e" type="eighth"/>
+<height id="#7f702c48" note="G" octave="4"/>
+<tab direction="draw" effect="none" hole="2" id="#1d6b6c55"/>
+</harmotab>
+<harmotab figure="#6b98e8b4" height="#3d5b89c" id="#77954f89" tab="#444b0bbb">
+<figure id="#6b98e8b4" type="quarter"/>
+<height id="#3d5b89c" note="A" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="3" id="#444b0bbb"/>
+</harmotab>
+<harmotab figure="#529c176c" height="#5c5ddd3" id="#1aef4504" tab="#1664a9b">
+<figure id="#529c176c" type="eighth"/>
+<height id="#5c5ddd3" note="D" octave="5"/>
+<tab direction="draw" effect="none" hole="4" id="#1664a9b"/>
+</harmotab>
+<harmotab figure="#bf47ae8" height="#5fb11b79" id="#62ac06d4" tab="#6482d603">
+<figure id="#bf47ae8" type="quarter"/>
+<height id="#5fb11b79" note="C" octave="5"/>
+<tab direction="blow" effect="none" hole="4" id="#6482d603"/>
+</harmotab>
+<harmotab figure="#6762ba99" height="#2c8c7d6" id="#49b09282" tab="#4bb7b407">
+<figure id="#6762ba99" type="eighth"/>
+<height id="#2c8c7d6" note="C" octave="5"/>
+<tab direction="blow" effect="none" hole="4" id="#4bb7b407"/>
+</harmotab>
+<harmotab figure="#5e89c116" height="#25e3bbd7" id="#98c5e67" tab="#a4133b0">
+<figure id="#5e89c116" type="eighth"/>
+<height alteration="b" id="#25e3bbd7" note="B" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="3" id="#a4133b0"/>
+</harmotab>
+<harmotab figure="#2390d8e1" height="#7a8eae04" id="#3ea86d12" tab="#2d42c778">
+<figure id="#2390d8e1" type="quarter"/>
+<height id="#7a8eae04" note="A" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="3" id="#2d42c778"/>
+</harmotab>
+<harmotab figure="#1531164" height="#749abce9" id="#7b35ae7e" tab="#5ae8a0cd">
+<figure id="#1531164" type="eighth"/>
+<height id="#749abce9" note="E" octave="4"/>
+<tab direction="blow" effect="none" hole="2" id="#5ae8a0cd"/>
+</harmotab>
+<harmotab figure="#10c10de0" height="#7275f5b7" id="#5e95215b" tab="#1e56fc16">
+<figure id="#10c10de0" type="quarter"/>
+<height id="#7275f5b7" note="E" octave="4"/>
+<tab direction="blow" effect="none" hole="2" id="#1e56fc16"/>
+</harmotab>
+<harmotab dotted="true" figure="#6361f39e" height="#33c13d0b" id="#60c017e9" tab="#538eb7b8">
+<figure dotted="true" id="#6361f39e" type="half"/>
+<height id="#33c13d0b" note="F" octave="4"/>
+<tab bend="half" direction="draw" effect="none" hole="2" id="#538eb7b8"/>
+</harmotab>
+<bar id="#3ebfbbe3" repeatAttribute="#1dc85444">
+<repeatAttribute ending="true" id="#1dc85444"/>
+</bar>
+<harmonica id="#4b144ba2" name="" tunning="#21719f30">
+<height id="#21719f30" note="C" octave="5"/>
+</harmonica>
+<tabModel id="#2a8a1977">
+<height id="#508de972" note="E" octave="4" tab="#14d964af">
+<tab direction="blow" effect="none" hole="2" id="#14d964af"/>
+</height>
+<height id="#4c6127da" note="F" octave="4" tab="#7e7f8062">
+<tab bend="half" direction="draw" effect="none" hole="2" id="#7e7f8062"/>
+</height>
+<height id="#64c5e2cf" note="G" octave="4" tab="#7badb7b8">
+<tab direction="draw" effect="none" hole="2" id="#7badb7b8"/>
+</height>
+<height id="#49f8d077" note="A" octave="4" tab="#6e3e5a91">
+<tab bend="half" direction="draw" effect="none" hole="3" id="#6e3e5a91"/>
+</height>
+<height alteration="b" id="#3fac1e22" note="B" octave="4" tab="#3cee6ad6">
+<tab bend="half" direction="draw" effect="none" hole="3" id="#3cee6ad6"/>
+</height>
+<height id="#48a826da" note="C" octave="5" tab="#178ed77a">
+<tab direction="blow" effect="none" hole="4" id="#178ed77a"/>
+</height>
+<height id="#22e496ab" note="D" octave="5" tab="#4d5fc672">
+<tab direction="draw" effect="none" hole="4" id="#4d5fc672"/>
+</height>
+<height alteration="b" id="#4add8e0d" note="E" octave="5" tab="#17991de1">
+<tab direction="blow" effect="none" hole="5" id="#17991de1"/>
+</height>
+<height id="#4578aae1" note="E" octave="5" tab="#751abd68">
+<tab direction="blow" effect="none" hole="5" id="#751abd68"/>
+</height>
+<height id="#2e8932e8" note="F" octave="5" tab="#316d3536">
+<tab direction="draw" effect="none" hole="5" id="#316d3536"/>
+</height>
+<height id="#78c08593" note="G" octave="5" tab="#2781b3d4">
+<tab direction="blow" effect="none" hole="3" id="#2781b3d4"/>
+</height>
+</tabModel>
+<track comment="" id="#3445378f" index="0" instrument="0" name="Piste d'accompagnement" type="accompanimentTrack" volume="70">
+<silence duration="1.0" id="#2c42a818"/>
+<accompaniment chord="#4eb8176d" duration="4.0" id="#4c29d65b">
+<chord figure="#180a1d7b" id="#4eb8176d" name="F">
+<figure id="#180a1d7b" type="quarter"/>
+<height id="#71060478" note="F" octave="4"/>
+<height id="#420f9c40" note="A" octave="4"/>
+<height id="#edb4fa2" note="C" octave="4"/>
+<height id="#60491c4c" note="F" octave="4"/>
+</chord>
+</accompaniment>
+<accompaniment chord="#442f1e75" duration="4.0" id="#40158291">
+<chord figure="#7178b64b" id="#442f1e75" name="C">
+<figure id="#7178b64b" type="quarter"/>
+<height id="#a13f991" note="C" octave="4"/>
+<height id="#2565a3c2" note="E" octave="4"/>
+<height id="#33e228bc" note="G" octave="4"/>
+<height id="#44e06940" note="C" octave="4"/>
+</chord>
+</accompaniment>
+<accompaniment chord="#4d8f9b75" duration="4.0" id="#2c083020">
+<chord figure="#f27461b" id="#4d8f9b75" name="C7">
+<figure id="#f27461b" type="quarter"/>
+<height id="#2f242b11" note="C" octave="4"/>
+<height id="#6f878144" note="E" octave="4"/>
+<height id="#2937d090" note="G" octave="4"/>
+<height alteration="b" id="#f5db314" note="B" octave="4"/>
+<height id="#5097eded" note="C" octave="4"/>
+</chord>
+</accompaniment>
+<accompaniment chord="#766b62d1" duration="4.0" id="#5b6b9e62">
+<chord figure="#424c414" id="#766b62d1" name="F">
+<figure id="#424c414" type="quarter"/>
+<height id="#7d95d4fe" note="F" octave="4"/>
+<height id="#77d2b01b" note="A" octave="4"/>
+<height id="#2927fa12" note="C" octave="4"/>
+<height id="#7f92c8d9" note="F" octave="4"/>
+</chord>
+</accompaniment>
+<accompaniment chord="#644ca6b6" duration="4.000002" id="#9c4ff2c">
+<chord figure="#64552a2b" id="#644ca6b6" name="Bb">
+<figure id="#64552a2b" type="quarter"/>
+<height alteration="b" id="#f9da4fc" note="B" octave="4"/>
+<height id="#36baa466" note="D" octave="4"/>
+<height id="#177f409c" note="F" octave="4"/>
+<height alteration="b" id="#236acdd1" note="B" octave="4"/>
+</chord>
+</accompaniment>
+<accompaniment chord="#3cdf0256" duration="4.0" id="#1343a083">
+<chord figure="#55127b52" id="#3cdf0256" name="F">
+<figure id="#55127b52" type="quarter"/>
+<height id="#513c6a22" note="F" octave="4"/>
+<height id="#555c07d8" note="A" octave="4"/>
+<height id="#d0721b0" note="C" octave="4"/>
+<height id="#4f34b07e" note="F" octave="4"/>
+</chord>
+</accompaniment>
+<accompaniment chord="#8135daf" duration="4.0" id="#305e7020">
+<chord figure="#2f6b904d" id="#8135daf" name="C7">
+<figure id="#2f6b904d" type="quarter"/>
+<height id="#4d3c7378" note="C" octave="4"/>
+<height id="#3bc0f2e5" note="E" octave="4"/>
+<height id="#788ab708" note="G" octave="4"/>
+<height alteration="b" id="#5af6ac0b" note="B" octave="4"/>
+<height id="#789934d4" note="C" octave="4"/>
+</chord>
+</accompaniment>
+<accompaniment chord="#798f1a31" duration="3.999998" id="#3ecec78d">
+<chord figure="#2200c550" id="#798f1a31" name="F">
+<figure id="#2200c550" type="quarter"/>
+<height id="#6f649b44" note="F" octave="4"/>
+<height id="#360dc67e" note="A" octave="4"/>
+<height id="#426295eb" note="C" octave="4"/>
+<height id="#56609959" note="F" octave="4"/>
+</chord>
+</accompaniment>
+<accompaniment chord="#24c6e1ec" duration="4.0" id="#609a18a0">
+<chord figure="#7d1a5fd0" id="#24c6e1ec" name="F">
+<figure id="#7d1a5fd0" type="quarter"/>
+<height id="#16ba5c7a" note="F" octave="4"/>
+<height id="#250d593e" note="A" octave="4"/>
+<height id="#f5e0873" note="C" octave="4"/>
+<height id="#667cbde6" note="F" octave="4"/>
+</chord>
+</accompaniment>
+<accompaniment chord="#67de007d" duration="4.0" id="#4e8890da">
+<chord figure="#1ff243d1" id="#67de007d" name="C">
+<figure id="#1ff243d1" type="quarter"/>
+<height id="#5eb7ec5d" note="C" octave="4"/>
+<height id="#7cfefe3f" note="E" octave="4"/>
+<height id="#48e61a35" note="G" octave="4"/>
+<height id="#7ac2b2f6" note="C" octave="4"/>
+</chord>
+</accompaniment>
+<accompaniment chord="#3b58f1fa" duration="4.0" id="#5a425eb9">
+<chord figure="#4c767286" id="#3b58f1fa" name="C7">
+<figure id="#4c767286" type="quarter"/>
+<height id="#5f49d886" note="C" octave="4"/>
+<height id="#69267649" note="E" octave="4"/>
+<height id="#5c1fe88d" note="G" octave="4"/>
+<height alteration="b" id="#32dcb03b" note="B" octave="4"/>
+<height id="#36b60b93" note="C" octave="4"/>
+</chord>
+</accompaniment>
+<accompaniment chord="#7786f3b3" duration="4.25" id="#7458e2a1">
+<chord figure="#3ce9aa13" id="#7786f3b3" name="F">
+<figure id="#3ce9aa13" type="quarter"/>
+<height id="#4b00ebec" note="F" octave="4"/>
+<height id="#2980f96c" note="A" octave="4"/>
+<height id="#527736bd" note="C" octave="4"/>
+<height id="#10aadc97" note="F" octave="4"/>
+</chord>
+</accompaniment>
+<accompaniment chord="#2c6691da" duration="3.9999962" id="#109ce4a3">
+<chord figure="#1f195fc" id="#2c6691da" name="Bb">
+<figure id="#1f195fc" type="quarter"/>
+<height alteration="b" id="#783c342b" note="B" octave="4"/>
+<height id="#388530b8" note="D" octave="4"/>
+<height id="#30419d05" note="F" octave="4"/>
+<height alteration="b" id="#23abcc03" note="B" octave="4"/>
+</chord>
+</accompaniment>
+<accompaniment chord="#3152bdc7" duration="4.0" id="#1badd463">
+<chord figure="#2f296d1d" id="#3152bdc7" name="F">
+<figure id="#2f296d1d" type="quarter"/>
+<height id="#57a7ddcf" note="F" octave="4"/>
+<height id="#4dd36dfe" note="A" octave="4"/>
+<height id="#73da669c" note="C" octave="4"/>
+<height id="#786c730" note="F" octave="4"/>
+</chord>
+</accompaniment>
+<accompaniment chord="#552a66ea" duration="4.0" id="#48baa31b">
+<chord figure="#52cab854" id="#552a66ea" name="C7">
+<figure id="#52cab854" type="quarter"/>
+<height id="#f06fc94" note="C" octave="4"/>
+<height id="#13b06041" note="E" octave="4"/>
+<height id="#207f5580" note="G" octave="4"/>
+<height alteration="b" id="#7c6572b" note="B" octave="4"/>
+<height id="#6e84cc09" note="C" octave="4"/>
+</chord>
+</accompaniment>
+<accompaniment chord="#3fb6772a" duration="4.000004" id="#7b0bbd42">
+<chord figure="#64498713" id="#3fb6772a" name="F">
+<figure id="#64498713" type="quarter"/>
+<height id="#39e4853f" note="F" octave="4"/>
+<height id="#49e808ca" note="A" octave="4"/>
+<height id="#20992bae" note="C" octave="4"/>
+<height id="#2802bd3a" note="F" octave="4"/>
+</chord>
+</accompaniment>
+<accompaniment chord="#38e580e1" duration="4.0" id="#174323d5">
+<chord figure="#637050f5" id="#38e580e1" name="F7">
+<figure id="#637050f5" type="quarter"/>
+<height id="#7c138c63" note="F" octave="4"/>
+<height id="#6765f738" note="A" octave="4"/>
+<height id="#5749b290" note="C" octave="4"/>
+<height alteration="b" id="#276a38b5" note="E" octave="4"/>
+<height id="#2eb1074a" note="F" octave="4"/>
+</chord>
+</accompaniment>
+<accompaniment chord="#18f63055" duration="4.0" id="#62d337d3">
+<chord figure="#4adf2940" id="#18f63055" name="Bb">
+<figure id="#4adf2940" type="quarter"/>
+<height alteration="b" id="#7a0d85cc" note="B" octave="4"/>
+<height id="#dcb52ae" note="D" octave="4"/>
+<height id="#1fa12495" note="F" octave="4"/>
+<height alteration="b" id="#c68c26c" note="B" octave="4"/>
+</chord>
+</accompaniment>
+<accompaniment chord="#10c789fb" duration="4.0" id="#10d4f27">
+<chord figure="#1c33c658" id="#10c789fb" name="G7">
+<figure id="#1c33c658" type="quarter"/>
+<height id="#1d766806" note="G" octave="4"/>
+<height id="#48a77106" note="B" octave="4"/>
+<height id="#68ed662d" note="D" octave="4"/>
+<height id="#39cf4a2c" note="F" octave="4"/>
+<height id="#580eac5a" note="G" octave="4"/>
+</chord>
+</accompaniment>
+<accompaniment chord="#18f3552f" duration="4.0" id="#b22c9df">
+<chord figure="#f5d8d75" id="#18f3552f" name="C7">
+<figure id="#f5d8d75" type="quarter"/>
+<height id="#48cbdb20" note="C" octave="4"/>
+<height id="#3f9f3736" note="E" octave="4"/>
+<height id="#6de1dadb" note="G" octave="4"/>
+<height alteration="b" id="#6e79839" note="B" octave="4"/>
+<height id="#4ebac9b9" note="C" octave="4"/>
+</chord>
+</accompaniment>
+<accompaniment chord="#3af2164f" duration="4.0" id="#46f20434">
+<chord figure="#6b96bac4" id="#3af2164f" name="F">
+<figure id="#6b96bac4" type="quarter"/>
+<height id="#6b687e7c" note="F" octave="4"/>
+<height id="#194835fb" note="A" octave="4"/>
+<height id="#53cffeb4" note="C" octave="4"/>
+<height id="#7c5b0668" note="F" octave="4"/>
+</chord>
+</accompaniment>
+<accompaniment chord="#5d352367" duration="4.0" id="#74bfd10a">
+<chord figure="#4ba76eff" id="#5d352367" name="F7">
+<figure id="#4ba76eff" type="quarter"/>
+<height id="#53f64158" note="F" octave="4"/>
+<height id="#4c3c2378" note="A" octave="4"/>
+<height id="#3cc262" note="C" octave="4"/>
+<height alteration="b" id="#14fdb00d" note="E" octave="4"/>
+<height id="#1b31303f" note="F" octave="4"/>
+</chord>
+</accompaniment>
+<accompaniment chord="#6ae2d0b2" duration="4.0" id="#5d684e26">
+<chord figure="#50f38cf0" id="#6ae2d0b2" name="Bb">
+<figure id="#50f38cf0" type="quarter"/>
+<height alteration="b" id="#7f033a6f" note="B" octave="4"/>
+<height id="#2cf18e8e" note="D" octave="4"/>
+<height id="#26c623af" note="F" octave="4"/>
+<height alteration="b" id="#1a50ca0c" note="B" octave="4"/>
+</chord>
+</accompaniment>
+<accompaniment chord="#3e7bfc04" duration="4.0" id="#25aa0a15">
+<chord figure="#3dde8aa8" id="#3e7bfc04" name="Gm7">
+<figure id="#3dde8aa8" type="quarter"/>
+<height id="#3fb6101e" note="G" octave="4"/>
+<height alteration="b" id="#49dc423f" note="B" octave="4"/>
+<height id="#1b815bfb" note="D" octave="4"/>
+<height id="#49bdc9d8" note="F" octave="4"/>
+<height id="#4b0ea9ba" note="G" octave="4"/>
+</chord>
+</accompaniment>
+<accompaniment chord="#1a7df60a" duration="4.0" id="#5d613b53">
+<chord figure="#43a4181c" id="#1a7df60a" name="C7">
+<figure id="#43a4181c" type="quarter"/>
+<height id="#26ae533a" note="C" octave="4"/>
+<height id="#7eda18ac" note="E" octave="4"/>
+<height id="#208a0544" note="G" octave="4"/>
+<height alteration="b" id="#455fc40c" note="B" octave="4"/>
+<height id="#12401369" note="C" octave="4"/>
+</chord>
+</accompaniment>
+<accompaniment chord="#4b3ec2dd" duration="4.0" id="#4a2af8f5">
+<chord figure="#56b61c3" id="#4b3ec2dd" name="F">
+<figure id="#56b61c3" type="quarter"/>
+<height id="#373c0b53" note="F" octave="4"/>
+<height id="#470b9279" note="A" octave="4"/>
+<height id="#48bd6a5f" note="C" octave="4"/>
+<height id="#b92a848" note="F" octave="4"/>
+</chord>
+</accompaniment>
+<accompaniment chord="#57f5b4d1" duration="2.0" id="#4cdf4bfc">
+<chord figure="#44323274" id="#57f5b4d1" name="F7">
+<figure id="#44323274" type="quarter"/>
+<height id="#12b754b2" note="F" octave="4"/>
+<height id="#42197bb7" note="A" octave="4"/>
+<height id="#17094d48" note="C" octave="4"/>
+<height alteration="b" id="#63b0bdc8" note="E" octave="4"/>
+<height id="#687bc899" note="F" octave="4"/>
+</chord>
+</accompaniment>
+<accompaniment chord="#8a030d6" duration="6.0" id="#3b8e80a6">
+<chord figure="#4ce63606" id="#8a030d6" name="C7">
+<figure id="#4ce63606" type="quarter"/>
+<height id="#4c349471" note="C" octave="4"/>
+<height id="#ffdadcd" note="E" octave="4"/>
+<height id="#579d75ee" note="G" octave="4"/>
+<height alteration="b" id="#22a98932" note="B" octave="4"/>
+<height id="#286e4365" note="C" octave="4"/>
+</chord>
+</accompaniment>
+<accompaniment chord="#2017b2b2" duration="4.0" id="#1de4eb5b">
+<chord figure="#73d4d493" id="#2017b2b2" name="F">
+<figure id="#73d4d493" type="quarter"/>
+<height id="#2a0ab444" note="F" octave="4"/>
+<height id="#24c0f1ec" note="A" octave="4"/>
+<height id="#774acfcd" note="C" octave="4"/>
+<height id="#5090d8ea" note="F" octave="4"/>
+</chord>
+</accompaniment>
+<accompaniment chord="#35a3e41f" duration="4.0" id="#19d03a4e">
+<chord figure="#1ad5cabc" id="#35a3e41f" name="C">
+<figure id="#1ad5cabc" type="quarter"/>
+<height id="#4c53ab04" note="C" octave="4"/>
+<height id="#900bac2" note="E" octave="4"/>
+<height id="#ee51b2c" note="G" octave="4"/>
+<height id="#635aed57" note="C" octave="4"/>
+</chord>
+</accompaniment>
+<accompaniment chord="#6fe2161d" duration="4.0" id="#49f10a67">
+<chord figure="#641a034d" id="#6fe2161d" name="C7">
+<figure id="#641a034d" type="quarter"/>
+<height id="#326b9c84" note="C" octave="4"/>
+<height id="#36f0b7f8" note="E" octave="4"/>
+<height id="#75be16f5" note="G" octave="4"/>
+<height alteration="b" id="#12d56b37" note="B" octave="4"/>
+<height id="#7971f189" note="C" octave="4"/>
+</chord>
+</accompaniment>
+<accompaniment chord="#40c5577c" duration="4.0" id="#67cee792">
+<chord figure="#5bf2af1c" id="#40c5577c" name="F">
+<figure id="#5bf2af1c" type="quarter"/>
+<height id="#7f724a9d" note="F" octave="4"/>
+<height id="#2880cac9" note="A" octave="4"/>
+<height id="#1f8166e5" note="C" octave="4"/>
+<height id="#688a548b" note="F" octave="4"/>
+</chord>
+</accompaniment>
+<accompaniment chord="#38a36b53" duration="3.9999847" id="#19c6866d">
+<chord figure="#70db3331" id="#38a36b53" name="Bb">
+<figure id="#70db3331" type="quarter"/>
+<height alteration="b" id="#4afb6354" note="B" octave="4"/>
+<height id="#3e364641" note="D" octave="4"/>
+<height id="#5d3e754f" note="F" octave="4"/>
+<height alteration="b" id="#2f87c55c" note="B" octave="4"/>
+</chord>
+</accompaniment>
+<accompaniment chord="#51c293f8" duration="4.0" id="#46fe0fd9">
+<chord figure="#3d80a8b7" id="#51c293f8" name="F">
+<figure id="#3d80a8b7" type="quarter"/>
+<height id="#f593af" note="F" octave="4"/>
+<height id="#7ab2c6a6" note="A" octave="4"/>
+<height id="#6f0ffb38" note="C" octave="4"/>
+<height id="#236527f" note="F" octave="4"/>
+</chord>
+</accompaniment>
+<accompaniment chord="#d694eca" duration="4.0" id="#49c4a5ec">
+<chord figure="#7cb3b6a6" id="#d694eca" name="C7">
+<figure id="#7cb3b6a6" type="quarter"/>
+<height id="#7c0b6548" note="C" octave="4"/>
+<height id="#50269997" note="E" octave="4"/>
+<height id="#162db19d" note="G" octave="4"/>
+<height alteration="b" id="#11e7c5cb" note="B" octave="4"/>
+<height id="#76a9b9c" note="C" octave="4"/>
+</chord>
+</accompaniment>
+<accompaniment chord="#3bbbbafc" duration="4.0" id="#7a9c8c3f">
+<chord figure="#21f11507" id="#3bbbbafc" name="F">
+<figure id="#21f11507" type="quarter"/>
+<height id="#362f0d54" note="F" octave="4"/>
+<height id="#4b142196" note="A" octave="4"/>
+<height id="#16a9255c" note="C" octave="4"/>
+<height id="#3ad3c6a3" note="F" octave="4"/>
+</chord>
+</accompaniment>
+</track>
+<track comment="" id="#5a9b8ff9" index="2" instrument="0" name="Paroles" type="lyricsTrack" volume="80"/>
+</track>
+</score>
+</harmotab>
