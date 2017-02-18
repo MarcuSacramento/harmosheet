@@ -222,18 +222,18 @@ public class EditionToolBar extends JToolBar implements ScoreControllerListener,
             this.addActionListener(action);
         }
         
-        public ActionButton(final EditionToolBar editionToolBar, final UserAction action, final int accelerator) {
-            this(editionToolBar, action);
+        public ActionButton(UserAction action, int accelerator) {
+            this(action);
             this.setAccelerator(accelerator);
         }
         
-        public ActionButton(final EditionToolBar editionToolBar, final UserAction action, final int accelerator, final boolean enabled) {
-            this(editionToolBar, action, accelerator);
+        public ActionButton(UserAction action,int accelerator, boolean enabled) {
+            this(action, accelerator);
             this.setEnabled(enabled);
         }
         
-        public ActionButton(final EditionToolBar editionToolBar, final UserAction action, final boolean enabled) {
-            this(editionToolBar, action);
+        public ActionButton(UserAction action,boolean enabled) {
+            this(action);
             this.setEnabled(enabled);
         }
         

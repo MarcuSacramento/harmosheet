@@ -79,8 +79,8 @@ public class ScoreIOUtilities
     
     public static class ReadableScoreFileFilter implements FileFilter
     {
-        @Override
-        public boolean accept(final File file) {
+        
+        public boolean accept( File file) {
             final String name = file.getName();
             return name.endsWith(".ht3") || name.endsWith(".htb") || name.endsWith(".ht3x");
         }

@@ -179,17 +179,17 @@ public class ActionPane extends JToolBar implements ScoreControllerListener
         private JPopupMenu m_subMenu;
         private Action m_action;
         
-        public ActionButton(final ActionPane actionPane, final UserAction action) {
-            this(actionPane, action, null);
+        public ActionButton( UserAction action) {
+            this(action, null);
         }
         
-        public ActionButton(final ActionPane actionPane, final UserAction action, final int accelerator) {
-            this(actionPane, action, null);
+        public ActionButton(UserAction action, int accelerator) {
+            this( action, null);
             this.setAccelerator(accelerator);
         }
         
-        public ActionButton(final ActionPane actionPane, final UserAction action, final JPopupMenu subMenu, final int accelerator) {
-            this(actionPane, action, subMenu);
+        public ActionButton( UserAction action, JPopupMenu subMenu, int accelerator) {
+            this(action, subMenu);
             this.setAccelerator(accelerator);
         }
         
