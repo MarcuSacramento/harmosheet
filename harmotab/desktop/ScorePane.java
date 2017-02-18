@@ -118,7 +118,7 @@ public class ScorePane extends JPanel implements ScoreViewListener, ComponentLis
         this.m_locations = new LocationList();
         this.unselect();
         if (this.m_score != null) {
-            this.m_score.addObjectListener(new ScoreChangesObserver((ScoreChangesObserver)null));
+            this.m_score.addObjectListener(new ScoreChangesObserver());
             this.m_allowEdition = this.m_scoreView.getScoreController().isScoreEditable();
         }
         else {

@@ -37,7 +37,7 @@ public abstract class ScoreView implements ScoreControllerListener
         this.m_viewHeight = 300;
         this.m_viewOffset = 0;
         controller.addScoreControllerListener(this);
-        GlobalPreferences.addChangeListener(new PreferencesObserver((PreferencesObserver)null));
+        GlobalPreferences.addChangeListener(new PreferencesObserver());
     }
     
     private void updateLocations() {
@@ -61,7 +61,7 @@ public abstract class ScoreView implements ScoreControllerListener
     
     protected void setScore(final Score score) {
         if (score != null) {
-            score.addObjectListener(new ScoreObserver((ScoreObserver)null));
+            score.addObjectListener(new ScoreObserver());
             this.m_renderer = new ScoreRenderer(score);
         }
         else {

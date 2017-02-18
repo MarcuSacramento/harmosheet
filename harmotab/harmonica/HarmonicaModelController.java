@@ -34,7 +34,7 @@ public class HarmonicaModelController
         this.m_model = model;
         this.m_writer = null;
         this.m_modelHasChanged = false;
-        this.m_modelObserver = new ModelObserver((ModelObserver)null);
+        this.m_modelObserver = new ModelObserver();
         this.m_model.addObjectListener(this.m_modelObserver);
     }
     

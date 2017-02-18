@@ -114,7 +114,7 @@ public class PreferencesSetupDialog extends SetupDialog
         advancedSetupPane.add(this.getSetupField(null, this.m_enablePerformancesFeatures, Localizer.get("M_PERFORMANCES_FEATURE_DESC")));
         advancedSetupPane.add(this.getSetupField(null, this.m_enableMetronomeFeature, Localizer.get("M_METRONOME_FEATURE_DESC")));
         advancedSetupPane.add(this.getSetupField(null, this.m_countDownCheckBox, Localizer.get("M_COUNTDOWN_FEATURE_DESC")));
-        this.m_restoreDefaultsButton.addActionListener(new RestoreDefaultsAction((RestoreDefaultsAction)null));
+        this.m_restoreDefaultsButton.addActionListener(new RestoreDefaultsAction());
         this.addSetupCategory(globalSetupCategory);
         this.addSetupCategory(editorSetupCategory);
         this.addSetupCategory(foldersSetupCategory);

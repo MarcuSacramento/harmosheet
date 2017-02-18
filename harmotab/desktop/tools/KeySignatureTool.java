@@ -28,7 +28,7 @@ public class KeySignatureTool extends Tool
         this.m_tonalityChooser = null;
         this.m_keySignature = (KeySignature)item.getElement();
         this.add(this.m_tonalityChooser = new TonalityChooser(this.m_keySignature.getValue()));
-        this.m_tonalityChooser.addActionListener(new TonalityChangesObserver((TonalityChangesObserver)null));
+        this.m_tonalityChooser.addActionListener(new TonalityChangesObserver());
     }
     
     @Override

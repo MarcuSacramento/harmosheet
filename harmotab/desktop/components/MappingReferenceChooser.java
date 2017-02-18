@@ -40,7 +40,7 @@ public class MappingReferenceChooser extends JPanel
         this.setLayout(new BorderLayout(10, 10));
         this.add(this.m_heightChooser, "West");
         this.add(this.m_possibilitiesCombo, "Center");
-        final ChangesObserver listener = new ChangesObserver((ChangesObserver)null);
+        final ChangesObserver listener = new ChangesObserver();
         this.m_heightChooser.addChangeListener(listener);
         this.m_harmonica.addObjectListener(listener);
         this.setOpaque(false);

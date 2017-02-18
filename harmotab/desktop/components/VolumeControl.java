@@ -47,7 +47,7 @@ public class VolumeControl extends JPanel implements ScoreControllerListener, Sc
         this.setPreferredSize(volumeSliderSize);
         this.setMaximumSize(volumeSliderSize);
         this.setSize(volumeSliderSize);
-        this.m_slider.addChangeListener(new SliderValueObserver((SliderValueObserver)null));
+        this.m_slider.addChangeListener(new SliderValueObserver());
         this.setOpaque(false);
     }
     

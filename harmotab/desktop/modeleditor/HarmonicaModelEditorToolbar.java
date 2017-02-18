@@ -38,7 +38,7 @@ public class HarmonicaModelEditorToolbar extends JToolBar
         this.add(this.m_open);
         this.add(this.m_save);
         this.add(this.m_saveAs);
-        final ButtonsOberver listener = new ButtonsOberver((ButtonsOberver)null);
+        final ButtonsOberver listener = new ButtonsOberver();
         this.m_new.addActionListener(listener);
         this.m_open.addActionListener(listener);
         this.m_save.addActionListener(listener);

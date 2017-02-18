@@ -152,7 +152,7 @@ public class PerformanceScorePlayer extends ScorePlayer implements LineListener
         this.m_stoppedByUser = false;
         this.setGlobalVolume(this.m_volume);
         this.m_clip.start();
-        new ReadingObserver((ReadingObserver)null).start();
+        new ReadingObserver().start();
         this.firePlaybackStarted();
     }
     

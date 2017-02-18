@@ -78,7 +78,7 @@ public class ScoreController implements PerformanceListListener
     protected void setScore(final Score score) {
         this.m_score = score;
         if (this.m_score != null) {
-            this.m_score.addObjectListener(new ScoreObserver((ScoreObserver)null));
+            this.m_score.addObjectListener(new ScoreObserver());
         }
         this.setScorePlayer(null);
         this.m_currentScoreWriter = null;

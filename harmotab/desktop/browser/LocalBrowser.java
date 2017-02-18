@@ -61,9 +61,9 @@ public class LocalBrowser extends Browser
         this.setLayout(new BorderLayout(5, 5));
         this.add(this.m_fileField, "North");
         this.add(this.m_listScrollPane, "Center");
-        this.m_fileField.addChangeListener(new PathValidationObserver((PathValidationObserver)null));
-        this.m_scoreList.addListSelectionListener(new ScoreSelectionObserver((ScoreSelectionObserver)null));
-        this.m_fileField.addKeyListener(new PathChangeObserver((PathChangeObserver)null));
+        this.m_fileField.addChangeListener(new PathValidationObserver());
+        this.m_scoreList.addListSelectionListener(new ScoreSelectionObserver());
+        this.m_fileField.addKeyListener(new PathChangeObserver());
         this.setBorder(new EmptyBorder(5, 5, 5, 5));
         this.setFolder(this.m_currentPath);
     }
@@ -71,7 +71,7 @@ public class LocalBrowser extends Browser
     public void setFolder(final String folder) {
         this.m_fileField.setFile(folder);
         this.setWaitMode(true);
-        new FileListUpdater((FileListUpdater)null).start();
+        new FileListUpdater().start();
     }
     
     private void setWaitMode(final boolean wait) {
@@ -96,7 +96,7 @@ public class LocalBrowser extends Browser
         @Override
         public void stateChanged(final ChangeEvent event) {
             LocalBrowser.this.setWaitMode(true);
-            new FileListUpdater((FileListUpdater)null).start();
+            new FileListUpdater().start();
         }
     }
     
@@ -106,7 +106,7 @@ public class LocalBrowser extends Browser
         public void keyReleased(final KeyEvent event) {
             if (LocalBrowser.this.m_fileField.getFile().isDirectory()) {
                 LocalBrowser.this.setWaitMode(true);
-                new FileListUpdater((FileListUpdater)null).start();
+                new FileListUpdater().start();
             }
         }
         
@@ -125,7 +125,7 @@ public class LocalBrowser extends Browser
         public void valueChanged(final ListSelectionEvent event) {
             if (!event.getValueIsAdjusting() && LocalBrowser.this.m_scoreList.getSelectedValue() != null) {
                 LocalBrowser.this.setWaitMode(true);
-                new ScoreLoader((ScoreLoader)null).start();
+                new ScoreLoader().start();
             }
         }
     }

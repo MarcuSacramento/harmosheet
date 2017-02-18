@@ -71,20 +71,20 @@ public class TabModelEditor extends JPanel
         final Score voidScore = new Score();
         this.m_track = new HarmoTabTrack(voidScore);
         this.resetTrack();
-        this.m_staffPane = new TrackPane(this.m_track, new CustomElementRenderer((CustomElementRenderer)null));
+        this.m_staffPane = new TrackPane(this.m_track, new CustomElementRenderer());
         this.m_scrollPane = new JScrollPane(this.m_staffPane);
         this.setLayout(new BorderLayout());
         this.add(this.m_scrollPane, "Center");
-        this.m_staffPane.addActionListener(new HeightChoiceAction((HeightChoiceAction)null));
-        this.m_tabModel.addObjectListener(new TabModelObserver((TabModelObserver)null));
-        this.m_staffPane.setPopupTriggerAction(new TabPopupMenuAction((TabPopupMenuAction)null));
+        this.m_staffPane.addActionListener(new HeightChoiceAction());
+        this.m_tabModel.addObjectListener(new TabModelObserver());
+        this.m_staffPane.setPopupTriggerAction(new TabPopupMenuAction());
         this.setCursor(new Cursor(12));
         this.setPreferredSize(new Dimension(150, 200));
     }
     
     private void resetTrack() {
         this.m_track.clear();
-        this.m_track.add(new Bar(new Key(), new KeySignature(), new CustomTimeSignature((CustomTimeSignature)null), new RepeatAttribute()));
+        this.m_track.add(new Bar(new Key(), new KeySignature(), new CustomTimeSignature(), new RepeatAttribute()));
         for (int i = 36; i < 84; ++i) {
             final Height height = new Height(i);
             Tab tab = this.m_tabModel.getTab(height);

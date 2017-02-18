@@ -26,7 +26,7 @@ public class InputLevelViewer extends JProgressBar
         try {
             this.m_recorder.open();
             this.m_recorder.startMonitoring();
-            (this.inputLevelViewerThread = new InputLevelViewerThread((InputLevelViewerThread)null)).start();
+            (this.inputLevelViewerThread = new InputLevelViewerThread()).start();
         }
         catch (RecorderException e) {
             e.printStackTrace();

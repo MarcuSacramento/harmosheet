@@ -70,7 +70,7 @@ public class TabModelWizard extends SetupDialog
         panel.add(this.createSetupSeparator(Localizer.get("N_TAB_NOTE_MAPPING")));
         panel.add(this.getSetupField(null, new JLabel(), Localizer.get("M_REFERENCE_DESC")));
         panel.add(this.createSetupField(Localizer.get("N_REFERENCE_NOTE"), this.m_mappingReferenceChooser));
-        final UserActionObserver listener = new UserActionObserver((UserActionObserver)null);
+        final UserActionObserver listener = new UserActionObserver();
         this.m_harmonicaModelChooser.addActionListener(listener);
         this.m_modelEditorButton.addActionListener(listener);
         this.m_tonalityCombo.addActionListener(listener);

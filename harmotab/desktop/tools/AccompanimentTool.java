@@ -49,8 +49,8 @@ public class AccompanimentTool extends Tool
         this.add(this.m_chordEditorButton);
         this.addSeparator();
         this.add(this.m_durationSpinner);
-        this.m_chordEditorButton.addActionListener(new DisplaySetupAction((DisplaySetupAction)null));
-        this.m_durationSpinnerModel.addChangeListener(new DurationChangeAction((DurationChangeAction)null));
+        this.m_chordEditorButton.addActionListener(new DisplaySetupAction());
+        this.m_durationSpinnerModel.addChangeListener(new DurationChangeAction());
         if (!this.m_accompaniment.getChord().isDefined()) {
             new AccompanimentSetupDialog(null, this.m_accompaniment).setVisible(true);
         }

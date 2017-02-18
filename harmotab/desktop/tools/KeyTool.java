@@ -27,7 +27,7 @@ public class KeyTool extends Tool
         super(container, score, item);
         this.m_trackPropertiesButton = null;
         this.add(this.m_trackPropertiesButton = new ToolButton(Localizer.get("ET_TRACK_SETUP"), (byte)16, Localizer.get("ET_TRACK_SETUP")));
-        final UserActionObserver listener = new UserActionObserver((UserActionObserver)null);
+        final UserActionObserver listener = new UserActionObserver();
         this.m_trackPropertiesButton.addActionListener(listener);
     }
     

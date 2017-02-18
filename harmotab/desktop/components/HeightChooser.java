@@ -71,11 +71,11 @@ public class HeightChooser extends JPanel
         this.setLayout(new BorderLayout(10, 10));
         this.add(this.m_trackPane, "Center");
         this.add(controlPanel, "East");
-        final UserActionObserver listener = new UserActionObserver((UserActionObserver)null);
+        final UserActionObserver listener = new UserActionObserver();
         this.m_alterationChooser.addActionListener(listener);
         this.m_upButton.addActionListener(listener);
         this.m_downButton.addActionListener(listener);
-        this.m_height.addObjectListener(new HeightChangesObserver((HeightChangesObserver)null));
+        this.m_height.addObjectListener(new HeightChangesObserver());
         this.setOpaque(false);
         this.setPreferredSize(new Dimension(190, 110));
     }

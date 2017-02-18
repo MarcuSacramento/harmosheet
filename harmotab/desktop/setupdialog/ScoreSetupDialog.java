@@ -175,7 +175,7 @@ public class ScoreSetupDialog extends SetupDialog
         this.m_descriptionTextArea.setEnabled(editable);
         this.m_tonalityChooser.setEnabled(editable);
         this.m_timeSignatureChooser.setEnabled(editable);
-        this.m_createFromModelButton.addActionListener(new TabMappingWizardAction((TabMappingWizardAction)null));
+        this.m_createFromModelButton.addActionListener(new TabMappingWizardAction());
         this.displayCategory(this.m_scoreSetupCategory);
     }
     

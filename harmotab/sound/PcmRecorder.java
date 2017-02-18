@@ -100,7 +100,7 @@ public class PcmRecorder extends Recorder
         }
         this.m_line.flush();
         this.m_line.start();
-        new RecordingThread((RecordingThread)null).start();
+        new RecordingThread().start();
     }
     
     @Override
@@ -120,7 +120,7 @@ public class PcmRecorder extends Recorder
         }
         this.m_line.flush();
         this.m_line.start();
-        new MonitoringThread((MonitoringThread)null).start();
+        new MonitoringThread().start();
     }
     
     @Override

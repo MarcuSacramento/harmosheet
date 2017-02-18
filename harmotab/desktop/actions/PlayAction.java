@@ -30,7 +30,7 @@ public class PlayAction extends UserAction
             try {
                 final Score score = DesktopController.getInstance().getScoreController().getScore();
                 final MidiCountDown midiCountDown = new MidiCountDown(score.getFirstTimeSignature(), score.getTempo());
-                midiCountDown.addSoundCountdownListener(new SoundCountdownObserver((SoundCountdownObserver)null));
+                midiCountDown.addSoundCountdownListener(new SoundCountdownObserver());
                 midiCountDown.start();
                 return;
             }

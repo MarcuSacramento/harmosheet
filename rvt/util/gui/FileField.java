@@ -39,8 +39,8 @@ public class FileField extends JPanel
         this.setLayout(new BorderLayout(5, 5));
         this.add(this.m_pathField, "Center");
         this.add(this.m_browseButton, "East");
-        this.m_browseButton.addActionListener(new BrowseAction((BrowseAction)null));
-        this.m_pathField.addActionListener(new PathChangedObserver((PathChangedObserver)null));
+        this.m_browseButton.addActionListener(new BrowseAction());
+        this.m_pathField.addActionListener(new PathChangedObserver());
         this.setOpaque(false);
     }
     

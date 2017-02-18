@@ -49,7 +49,7 @@ class HarmonicaModelDirectionLabel extends JPanel
         this.m_label.setBorder(BorderFactory.createLineBorder(Color.BLACK));
         this.setLayout(new FlowLayout(0, 0, 0));
         this.add(this.m_label);
-        final MouseObserver mouseObserver = new MouseObserver((MouseObserver)null);
+        final MouseObserver mouseObserver = new MouseObserver();
         this.addMouseListener(mouseObserver);
         this.m_label.addMouseListener(mouseObserver);
         this.setPreferredSize(this.m_size);

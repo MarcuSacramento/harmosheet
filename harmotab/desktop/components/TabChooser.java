@@ -44,7 +44,7 @@ public class TabChooser extends JPanel
         if (this.m_pushedChooser != null) {
             this.add(this.m_pushedChooser);
         }
-        final HarmoTabChangeAction listener = new HarmoTabChangeAction((HarmoTabChangeAction)null);
+        final HarmoTabChangeAction listener = new HarmoTabChangeAction();
         this.m_holeChooser.addChangeListener(listener);
         this.m_directionChooser.addActionListener(listener);
         if (this.m_pushedChooser != null) {

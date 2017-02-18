@@ -30,11 +30,11 @@ public class SoftwarePane extends Browser
         this.m_htmlContent.setEditable(false);
         this.setLayout(new BorderLayout());
         this.add(this.m_htmlContent, "Center");
-        this.m_htmlContent.addHyperlinkListener(new LinkActionObserver((LinkActionObserver)null));
+        this.m_htmlContent.addHyperlinkListener(new LinkActionObserver());
         this.setOpaque(false);
         this.m_htmlContent.setText(Localizer.get("ET_LOADING"));
         this.m_htmlContent.setPreferredSize(new Dimension(150, 300));
-        new GetHtmlContentAction((GetHtmlContentAction)null).start();
+        new GetHtmlContentAction().start();
     }
     
     private class GetHtmlContentAction extends Thread

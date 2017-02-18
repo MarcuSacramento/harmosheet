@@ -88,10 +88,10 @@ public class PngExportSetupDialog extends SetupDialog
         pane.add(this.createSetupField(Localizer.get("ET_OUTPUT_FOLDER"), this.m_outputFolderField));
         pane.add(this.createSetupField(Localizer.get("ET_FILENAME"), this.m_outputFileNameField));
         this.addSetupCategory(exportSetupCategory);
-        final RadioToggleObserver radioToggleListener = new RadioToggleObserver((RadioToggleObserver)null);
+        final RadioToggleObserver radioToggleListener = new RadioToggleObserver();
         this.m_onePageButton.addActionListener(radioToggleListener);
         this.m_severalPagesButton.addActionListener(radioToggleListener);
-        this.m_outputFileNameField.addChangeListener(new FileNameChangedListener((FileNameChangedListener)null));
+        this.m_outputFileNameField.addChangeListener(new FileNameChangedListener());
     }
     
     @Override

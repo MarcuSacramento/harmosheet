@@ -16,7 +16,7 @@ public class Localizer
     
     static {
         loadLocale();
-        GlobalPreferences.addChangeListener(new PreferencesObserver(null));
+        GlobalPreferences.addChangeListener(new PreferencesObserver());
         Localizer.m_resourceBundle = null;
     }
     

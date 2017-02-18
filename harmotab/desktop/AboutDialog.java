@@ -61,8 +61,8 @@ public class AboutDialog extends JDialog
         contentPane.add(iconPane, "West");
         contentPane.add(descriptionPane, "Center");
         contentPane.add(buttonPane, "South");
-        closeButton.addActionListener(new CloseAction((CloseAction)null));
-        linkLabel.addMouseListener(new WebSiteAction((WebSiteAction)null));
+        closeButton.addActionListener(new CloseAction());
+        linkLabel.addMouseListener(new WebSiteAction());
         this.pack();
         this.setLocationRelativeTo(this.getParent());
         this.setVisible(true);

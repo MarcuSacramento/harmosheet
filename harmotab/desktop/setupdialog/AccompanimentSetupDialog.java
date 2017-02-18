@@ -90,7 +90,7 @@ public class AccompanimentSetupDialog extends ChordSetupDialog
         rhythmicSetupPane.add(this.createSetupField("", this.m_fixedDurationRhytmicRadio));
         rhythmicSetupPane.add(this.createSetupField(Localizer.get("N_DURATION"), this.m_customDurationChooser));
         this.addSetupCategory(rhythmicSetupCategory);
-        final UserActionListener listener = new UserActionListener((UserActionListener)null);
+        final UserActionListener listener = new UserActionListener();
         this.m_fixedDurationRhytmicRadio.addActionListener(listener);
         this.m_figureRhythmicRadio.addActionListener(listener);
         this.update();

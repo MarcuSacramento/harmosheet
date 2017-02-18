@@ -37,7 +37,7 @@ public class LyricsTool extends Tool implements ActionListener
         this.m_textField.setBounds(this.m_locationItem.getX1(), this.m_locationItem.getY1(), this.m_locationItem.getWidth(), this.m_locationItem.getHeight());
         this.m_textField.setText(this.m_lyrics.getText());
         this.m_textField.addActionListener(this);
-        this.m_durationChooser.addChangeListener(new DurationChangesObserver((DurationChangesObserver)null));
+        this.m_durationChooser.addChangeListener(new DurationChangesObserver());
         SwingUtilities.invokeLater(new Runnable() {
             @Override
             public void run() {

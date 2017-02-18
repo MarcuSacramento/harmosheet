@@ -43,12 +43,12 @@ public class HarmonicaModelPane extends JScrollPane
         this.m_labels = null;
         this.m_harmonica = harmonica;
         this.m_labels = new ArrayList<HarmonicaModelDirectionLabel>();
-        this.m_chromaticButtonObserver = new ChromaticButtonObserver((ChromaticButtonObserver)null);
+        this.m_chromaticButtonObserver = new ChromaticButtonObserver();
         (this.innerPane = new JPanel()).setSize(new Dimension(400, 200));
         this.innerPane.setBackground(Color.WHITE);
         this.setViewportView(this.innerPane);
         this.update();
-        this.m_modelObserver = new ModelObserver((ModelObserver)null);
+        this.m_modelObserver = new ModelObserver();
         this.m_harmonica.addObjectListener(this.m_modelObserver);
         this.setPreferredSize(new Dimension(400, 200));
     }

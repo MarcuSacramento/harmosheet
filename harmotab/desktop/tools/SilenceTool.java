@@ -28,7 +28,7 @@ public class SilenceTool extends Tool
         this.m_durationChooser = null;
         this.m_silence = (Silence)item.getElement();
         this.add(this.m_durationChooser = new DurationChooser(this.m_silence.getDuration()));
-        this.m_durationChooser.addChangeListener(new DurationChangeAction((DurationChangeAction)null));
+        this.m_durationChooser.addChangeListener(new DurationChangeAction());
     }
     
     @Override

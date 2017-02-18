@@ -60,8 +60,8 @@ public class ChordSetupDialog extends SetupDialog
         playPanel.add(this.m_compositionLabel, "Center");
         chordSetupPane.add(this.createSetupField(Localizer.get("ET_LISTEN"), playPanel));
         this.addSetupCategory(chordSetupCategory);
-        this.m_chordChooser.addActionListener(new ChordChangedAction((ChordChangedAction)null));
-        this.m_playButton.addActionListener(new PlayChordAction((PlayChordAction)null));
+        this.m_chordChooser.addActionListener(new ChordChangedAction());
+        this.m_playButton.addActionListener(new PlayChordAction());
         this.update();
         this.displayCategory(chordSetupCategory);
     }

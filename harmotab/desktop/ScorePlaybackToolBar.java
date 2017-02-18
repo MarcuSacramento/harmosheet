@@ -56,8 +56,8 @@ public class ScorePlaybackToolBar extends JToolBar implements SelectionListener
         this.add(Box.createHorizontalGlue());
         this.add(this.m_trackVolumeLabel);
         this.add(this.m_globalVolume);
-        this.m_globalVolume.addChangeListener(new UserActionObserver((UserActionObserver)null));
-        GlobalPreferences.addChangeListener(this.m_globalPreferencesObserver = new GlobalPreferencesObserver((GlobalPreferencesObserver)null));
+        this.m_globalVolume.addChangeListener(new UserActionObserver());
+        GlobalPreferences.addChangeListener(this.m_globalPreferencesObserver = new GlobalPreferencesObserver());
         DesktopController.getInstance().addSelectionListener(this);
     }
     

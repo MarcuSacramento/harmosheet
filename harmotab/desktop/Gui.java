@@ -73,7 +73,7 @@ public class Gui extends JFrame implements WindowListener, ComponentListener, Sc
         contentPane.setLayout(new BorderLayout());
         contentPane.add(this.m_splitPane, "Center");
         this.addWindowListener(this);
-        GlobalPreferences.addChangeListener(new PreferencesObserver((PreferencesObserver)null));
+        GlobalPreferences.addChangeListener(new PreferencesObserver());
         this.addComponentListener(this);
         this.setNavigationPanelVisible(true);
         this.setLocationRelativeTo(null);
@@ -97,7 +97,7 @@ public class Gui extends JFrame implements WindowListener, ComponentListener, Sc
     @Override
     public void onControlledScoreChanged(final ScoreController controller, final Score scoreControlled) {
         if (scoreControlled != null) {
-            scoreControlled.addObjectListener(new FrameTitleSetter((FrameTitleSetter)null));
+            scoreControlled.addObjectListener(new FrameTitleSetter());
         }
     }
     

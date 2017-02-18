@@ -95,14 +95,14 @@ public class HarmonicaModelEditor extends JDialog
         this.add(this.m_toolBar, "North");
         this.add(this.m_modelPane, "Center");
         this.add(propertiesPane, "South");
-        this.addWindowListener(new WindowObserver((WindowObserver)null));
-        final UserActionOberver userActionObserver = new UserActionOberver((UserActionOberver)null);
+        this.addWindowListener(new WindowObserver());
+        final UserActionOberver userActionObserver = new UserActionOberver();
         this.m_numberOfHolesChooser.addChangeListener(userActionObserver);
         this.m_harmonicaTypeChooser.addActionListener(userActionObserver);
         this.m_tunningCombo.addActionListener(userActionObserver);
         this.m_closeButton.addActionListener(userActionObserver);
         this.m_nameTextField.getDocument().addDocumentListener(userActionObserver);
-        this.m_harmonicaListener = new HarmonicaChangeListener((HarmonicaChangeListener)null);
+        this.m_harmonicaListener = new HarmonicaChangeListener();
         this.m_harmonica.addObjectListener(this.m_harmonicaListener);
         this.setSize(550, 400);
         this.setLocationRelativeTo(parent);

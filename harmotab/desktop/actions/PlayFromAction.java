@@ -30,7 +30,7 @@ public class PlayFromAction extends UserAction
         if (GlobalPreferences.getPlaybackCountdownEnabled()) {
             try {
                 final MidiCountDown midiCountDown = new MidiCountDown(score.getFirstTimeSignature(), score.getTempo());
-                midiCountDown.addSoundCountdownListener(new SoundCountdownObserver((SoundCountdownObserver)null));
+                midiCountDown.addSoundCountdownListener(new SoundCountdownObserver());
                 midiCountDown.start();
                 return;
             }

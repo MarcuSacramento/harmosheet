@@ -159,7 +159,7 @@ public class HarmoTabMenu extends JMenuBar
         this.m_pauseMenu = new ActionMenuItem(new PauseAction());
         this.m_stopMenu = new ActionMenuItem(new StopAction());
         this.m_viewMenu = new JMenu(Localizer.get("MENU_VIEW"));
-        (this.m_navigationPanelVisible = new JCheckBoxMenuItem(Localizer.get("MENU_SHOW_NAVIGATION_PANEL"), DesktopController.getInstance().getGuiWindow().isBrowsersPaneVisible())).addActionListener(new BrowsersPaneCheckboxToggledAction((BrowsersPaneCheckboxToggledAction)null));
+        (this.m_navigationPanelVisible = new JCheckBoxMenuItem(Localizer.get("MENU_SHOW_NAVIGATION_PANEL"), DesktopController.getInstance().getGuiWindow().isBrowsersPaneVisible())).addActionListener(new BrowsersPaneCheckboxToggledAction());
         this.m_scorePropertiesMenu = new ActionMenuItem(new ShowScorePropertiesAction());
         this.m_modelEditorMenu = new ActionMenuItem(new ShowModelEditorAction());
         this.m_retabMenu = new ActionMenuItem(new RetabAction());
@@ -231,8 +231,8 @@ public class HarmoTabMenu extends JMenuBar
         this.m_helpMenu.addSeparator();
         this.m_helpMenu.add(this.m_aboutMenu);
         this.add(this.m_helpMenu);
-        this.m_scoreController.addScoreControllerListener(new ScoreControllerObserver((ScoreControllerObserver)null));
-        DesktopController.getInstance().addSelectionListener(new SelectionObserver((SelectionObserver)null));
+        this.m_scoreController.addScoreControllerListener(new ScoreControllerObserver());
+        DesktopController.getInstance().addSelectionListener(new SelectionObserver());
     }
     
     private class ScoreChangesObserver implements HarmoTabObjectListener
